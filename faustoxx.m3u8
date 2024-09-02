@@ -1,0 +1,664 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="6358d1169cb4a6b30bd14a6985f02045" tvg-logo="https://i.ibb.co/M57Q0Kv/espn-premium2.png" group-title="→ DEPORTES ←",ESPN Premium HD
+http://168.197.196.98:9981/stream/channelid/382818403?profile=pass
+#EXTINF:-1 tvg-id="511131c1ef33f9052360ef5c16c10651" tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="→ DEPORTES ←",ESPN HD
+http://168.197.196.98:9981/stream/channelid/1093734737?profile=pass
+#EXTINF:-1 tvg-id="782a25a6583edb302bd7d1b594673bd1" tvg-logo="https://i.postimg.cc/v82q167s/ESPN2.png" group-title="→ DEPORTES ←",ESPN 2 HD
+http://168.197.196.98:9981/stream/channelid/639969912?profile=pass
+#EXTINF:-1 tvg-id="6eee2c50a6cc9a7142f545f1ccf6b66c" tvg-logo="https://i.postimg.cc/y8DMj3Cm/espn3.png" group-title="→ DEPORTES ←",ESPN 3 HD
+http://168.197.196.98:9981/stream/channelid/1345121902?profile=pass
+#EXTINF:-1 tvg-id="37f1089457d210d22eaf62b190d25af0" tvg-logo="https://i.ibb.co/xC9P0T3/ESPN-4-logo-svg.png" group-title="→ DEPORTES ←",ESPN 4 HD
+http://168.197.196.98:9981/stream/channelid/336130359?profile=pass
+#EXTINF:-1 tvg-id="8b9a9bae9acf514de3e378bcc45b3b4a" tvg-logo="https://i.ibb.co/4s0Ht69/Logo-Fox-Sports-Argentina-2023.png" group-title="→ DEPORTES ←",Fox Sports HD
+http://168.197.196.98:9981/stream/channelid/781949579?profile=pass
+#EXTINF:-1 tvg-id="68390ffd2d244f54737e4651223f513f" tvg-logo="https://i.postimg.cc/d01285jt/fox2.png" group-title="→ DEPORTES ←",Fox Sports 2 HD
+http://168.197.196.98:9981/stream/channelid/33594286?profile=pass
+#EXTINF:-1 tvg-id="ae9b00025a5b77e0228fe132d4a39c3a" tvg-logo="https://i.postimg.cc/bv5qJvvN/fox3.png" group-title="→ DEPORTES ←",Fox Sports 3 HD
+http://168.197.196.98:9981/stream/channelid/2098149736?profile=pass
+#EXTINF:-1 tvg-id="837f81b3b8ce999bc149901cc3345285" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" group-title="→ DEPORTES ←",TNT Sports HD
+http://168.197.196.98:9981/stream/channelid/864124803?profile=pass
+#EXTINF:-1 tvg-id="a6ad668b20925e06b6146227eee80998" tvg-logo="https://i.postimg.cc/YSSq7fVJ/tycsports.png" group-title="→ DEPORTES ←",TyC Sports HD
+http://168.197.196.98:9981/stream/channelid/191278502?profile=pass
+#EXTINF:-1 tvg-id="2bc191e030a510797c728c371ddeb769" tvg-logo="https://i.postimg.cc/YSSq7fVJ/tycsports.png" group-title="→ DEPORTES ←",TyC Sports HD Internacional
+http://45.232.176.17:8000/play/a02g
+#EXTINF:-1 tvg-id="" tvg-name="DirectTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="→ DEPORTES ←",DirectTV
+http://daleplaytv.vip:80/play/7cNdKItVHkDP6l2mENP5L9tctIZ7KEFGe41Zt1nyWGw/ts
+#EXTINF:-1 tvg-id="" tvg-name="DirectTV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="→ DEPORTES ←",DirectTV 2
+http://daleplaytv.vip:80/play/7cNdKItVHkDP6l2mENP5L5bUJAwSpnsHLc5nnckDJpg/ts
+#EXTINF:-1 tvg-id="" tvg-name="DirectTV +" tvg-logo="https://i.postimg.cc/7Lb92ddX/directvsports.png" group-title="→ DEPORTES ←",DirectTV +
+http://daleplaytv.vip:80/play/7cNdKItVHkDP6l2mENP5LxvzNzX9zbZzn6IuQs8njM8/ts
+#EXTINF:-1 tvg-id="" tvg-name="DirectTV ECU" tvg-logo="https://i.postimg.cc/1RGWB30z/Dsports.png" group-title="→ DEPORTES ←",DirectTV ECU
+http://tv.proyectox.vip:8080/ariasana2/bJjysPu7eF/88483
+#EXTINF:-1 tvg-id="ESPN.co" tvg-name="Espn ECU" tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="→ DEPORTES ←",Espn ECU
+http://190.0.241.181:8000/play/a03c/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.co" tvg-name="Espn ECU 2" tvg-logo="https://i.postimg.cc/v82q167s/ESPN2.png" group-title="→ DEPORTES ←",Espn ECU 2
+http://190.0.241.181:8000/play/a06z/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.co" tvg-name="Espn ECU 3" tvg-logo="https://i.postimg.cc/y8DMj3Cm/espn3.png" group-title="→ DEPORTES ←",Espn ECU 3
+http://190.0.241.181:8000/play/a02e/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.co" tvg-name="Espn ECU 4" tvg-logo="https://i.ibb.co/xC9P0T3/ESPN-4-logo-svg.png" group-title="→ DEPORTES ←",Espn ECU 4
+http://186.148.195.206:8000/play/a048/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.co" tvg-name="Espn ECU 5" tvg-logo="https://i.ibb.co/g4Nd3fs/ESPN-5-logo-svg.png" group-title="→ DEPORTES ←",Espn ECU 5
+http://190.0.241.181:8000/play/a033/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.co" tvg-name="Espn ECU 6" tvg-logo="https://i.ibb.co/2cNtqyf/ESPN-6-logo-svg.png" group-title="→ DEPORTES ←",Espn ECU 6
+http://190.0.241.181:8000/play/a02f/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.co" tvg-name="Espn ECU 7" tvg-logo="https://i.ibb.co/dLvzCJR/ESPN-7-logo-svg.png" group-title="→ DEPORTES ←",Espn ECU 7
+http://190.0.241.181:8000/play/a02j/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEP• ECDF EC (HD)" tvg-logo="https://www.xtrim.tv/images/xtr-vod-item-logo-ecdf.png" group-title="→ DEPORTES ←",DEP• ECDF EC (HD)
+http://premierchile.shop:8080/988966049tv/cmdgjw/585
+#EXTINF:-1 tvg-id="" tvg-name="DEP• ECDF EC (HD)*2" tvg-logo="https://www.xtrim.tv/images/xtr-vod-item-logo-ecdf.png" group-title="→ DEPORTES ←",DEP• ECDF EC (HD)*2
+http://186.148.195.206:8000/play/a04w/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECU | Zapping Sports ( Only Events )*" tvg-logo="https://i.postimg.cc/tCpwWZV2/Zappin-EC-e.png" group-title="→ DEPORTES ←",ECU | Zapping Sports ( Only Events )* 1
+http://premierchile.shop:8080/988966049tv/cmdgjw/250855
+#EXTINF:-1 tvg-id="" tvg-name="ECU | Zapping Sports ( Only Events )*" tvg-logo="https://i.postimg.cc/tCpwWZV2/Zappin-EC-e.png" group-title="→ DEPORTES ←",ECU | Zapping Sports ( Only Events )* 2
+http://premierchile.shop:8080/988966049tv/cmdgjw/250891
+#EXTINF:-1 tvg-id="" tvg-name="⚽ FUTBOL ECUADOR | ECDF FHD" tvg-logo="https://st2.depositphotos.com/1905483/5698/i/450/depositphotos_56983035-stock-photo-flag-of-ecuador.jpg" group-title="→ DEPORTES ←",⚽ FUTBOL ECUADOR | ECDF FHD
+http://premierchile.shop:8080/988966049tv/cmdgjw/250893
+#EXTINF:-1 tvg-id="" tvg-name="ECU | ( Only Events )*" tvg-logo="https://i.postimg.cc/tCpwWZV2/Zappin-EC-e.png" group-title="→ DEPORTES ←",ECU | ( Only Events )
+http://tv.proyectox.vip:8080/deviacarlos1/wCSbrTqZgj/9568
+#EXTINF:-1 tvg-id="" tvg-name="DEP• PREMIERE CLUBES BR (HD) »1«" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="→ DEPORTES LATINOS ←",DEP• PREMIERE CLUBES BR (HD) »1«
+http://premierchile.shop:8080/988966049tv/cmdgjw/568
+#EXTINF:-1 tvg-id="" tvg-name="DEP• PREMIERE CLUBES BR (HD) »2«" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="→ DEPORTES LATINOS ←",DEP• PREMIERE CLUBES BR (HD) »2«
+http://premierchile.shop:8080/988966049tv/cmdgjw/569
+#EXTINF:-1 tvg-id="" tvg-name="DEP• PREMIERE 1 BR (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="→ DEPORTES ←",DEP• PREMIERE 1 BR (HD)
+http://premierchile.shop:8080/988966049tv/cmdgjw/561
+#EXTINF:-1 tvg-id="" tvg-name="DEP• PREMIERE 2 BR (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="→ DEPORTES ←",DEP• PREMIERE 2 BR (HD)
+http://premierchile.shop:8080/988966049tv/cmdgjw/562
+#EXTINF:-1 tvg-id="" tvg-name="DEP• PREMIERE 3 BR (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="→ DEPORTES ←",DEP• PREMIERE 3 BR (HD)
+http://premierchile.shop:8080/988966049tv/cmdgjw/563
+#EXTINF:-1 tvg-id="" tvg-name="DEP• PREMIERE 4 BR (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="→ DEPORTES ←",DEP• PREMIERE 4 BR (HD)
+http://premierchile.shop:8080/988966049tv/cmdgjw/564
+#EXTINF:-1 tvg-id="" tvg-name="DEP• PREMIERE 5 BR (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="→ DEPORTES ←",DEP• PREMIERE 5 BR (HD)
+http://premierchile.shop:8080/988966049tv/cmdgjw/565
+#EXTINF:-1 tvg-id="" tvg-name="DEP• PREMIERE 6 BR (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="→ DEPORTES ←",DEP• PREMIERE 6 BR (HD)
+http://premierchile.shop:8080/988966049tv/cmdgjw/566
+#EXTINF:-1 tvg-id="" tvg-name="DEP• PREMIERE 7 BR (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="→ DEPORTES ←",DEP• PREMIERE 7 BR (HD)
+http://premierchile.shop:8080/988966049tv/cmdgjw/567
+#EXTINF:-1 tvg-id="" tvg-name="L1 MAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/L1-LOGO.svg/512px-L1-LOGO.svg.png?20240126213207" group-title="→ DEPORTES ←",L1 MAX
+http://tv.proyectox.vip:8080/JorgeMonta21/DH4xfGbcGE/8457
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="→ DEPORTES ←",ESPN CHIL HD
+http://190.0.241.181:8000/play/a03k/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="INF• BABY TV (HD)" tvg-logo="https://i.pinimg.com/originals/94/b9/56/94b9563c27b8a191c73b6a7486d929c5.png" group-title="→ INFANTILES ←",INF• BABY TV (HD)
+http://premierchile.shop:8080/988966049tv/cmdgjw/372
+#EXTINF:-1 tvg-id="" tvg-name="INF• BABY FIRST (HD) »1«" tvg-logo="https://i.postimg.cc/SxkRDgmP/pngegg-2.png" group-title="→ INFANTILES ←",INF• BABY FIRST (HD) »1«
+http://premierchile.shop:8080/988966049tv/cmdgjw/370
+#EXTINF:-1 tvg-id="" tvg-name="INF• BABY FIRST (HD) »2«" tvg-logo="https://i.postimg.cc/SxkRDgmP/pngegg-2.png" group-title="→ INFANTILES ←",INF• BABY FIRST (HD) »2«
+http://premierchile.shop:8080/988966049tv/cmdgjw/371
+#EXTINF:-1 tvg-id="" tvg-name="INF• NICKELODEON CLÁSICO (HD)" tvg-logo="https://i.postimg.cc/jSNwFVbR/pngegg.png" group-title="→ INFANTILES ←",INF• NICKELODEON CLÁSICO (HD)
+http://premierchile.shop:8080/988966049tv/cmdgjw/61590
+#EXTINF:-1 tvg-id="" tvg-name="INF• TEEN NICK (HD) »1«" tvg-logo="https://i.postimg.cc/HWVNRmSG/Teen-Nick-2023.png" group-title="→ INFANTILES ←",INF• TEEN NICK (HD) »1«
+http://premierchile.shop:8080/988966049tv/cmdgjw/396
+#EXTINF:-1 tvg-id="" tvg-name="INF• TEEN NICK (HD) »2«" tvg-logo="https://i.postimg.cc/HWVNRmSG/Teen-Nick-2023.png" group-title="→ INFANTILES ←",INF• TEEN NICK (HD) »2«
+http://premierchile.shop:8080/988966049tv/cmdgjw/395
+#EXTINF:-1 tvg-id="" tvg-name="INF• NICKELODEON (HD) »1«" tvg-logo="https://i.postimg.cc/T1fpy0Ng/Nickelodeon-png-clipart-logo.png" group-title="→ INFANTILES ←",INF• NICKELODEON (HD) »1«
+http://premierchile.shop:8080/988966049tv/cmdgjw/390
+#EXTINF:-1 tvg-id="" tvg-name="INF• NICKELODEON (HD) »2«" tvg-logo="https://i.postimg.cc/T1fpy0Ng/Nickelodeon-png-clipart-logo.png" group-title="→ INFANTILES ←",INF• NICKELODEON (HD) »2«
+http://premierchile.shop:8080/988966049tv/cmdgjw/391
+#EXTINF:-1 tvg-id="" tvg-name="INF• NICK JR. (HD) »1«" tvg-logo="https://i.postimg.cc/1tLrbktP/Nick-Jr-logo.png" group-title="→ INFANTILES ←",INF• NICK JR. (HD) »1«
+http://premierchile.shop:8080/988966049tv/cmdgjw/393
+#EXTINF:-1 tvg-id="" tvg-name="INF• NICK JR. (HD) »2«" tvg-logo="https://i.postimg.cc/1tLrbktP/Nick-Jr-logo.png" group-title="→ INFANTILES ←",INF• NICK JR. (HD) »2«
+http://premierchile.shop:8080/988966049tv/cmdgjw/394
+#EXTINF:-1 tvg-id="" tvg-name="INF• NICK JR. (HD) »3«" tvg-logo="https://i.postimg.cc/1tLrbktP/Nick-Jr-logo.png" group-title="→ INFANTILES ←",INF• NICK JR. (HD) »3«
+http://premierchile.shop:8080/988966049tv/cmdgjw/392
+#EXTINF:-1 tvg-id="" tvg-name="INF• CARTOONITO (HD) »1«" tvg-logo="https://i.postimg.cc/T2LR9VG6/Cartoonito-Logo-02.png" group-title="→ INFANTILES ←",INF• CARTOONITO (HD) »1«
+http://premierchile.shop:8080/988966049tv/cmdgjw/61600
+#EXTINF:-1 tvg-id="" tvg-name="INF• CARTOONITO (HD) »2«" tvg-logo="https://i.postimg.cc/T2LR9VG6/Cartoonito-Logo-02.png" group-title="→ INFANTILES ←",INF• CARTOONITO (HD) »2«
+http://premierchile.shop:8080/988966049tv/cmdgjw/61603
+#EXTINF:-1 tvg-id="" tvg-name="INF• CARTOONITO (HD) »3«" tvg-logo="https://i.postimg.cc/T2LR9VG6/Cartoonito-Logo-02.png" group-title="→ INFANTILES ←",INF• CARTOONITO (HD) »3«
+http://premierchile.shop:8080/988966049tv/cmdgjw/61599
+#EXTINF:-1 tvg-id="" tvg-name="INF• CARTOON NETWORK (HD) »1«" tvg-logo="https://i.postimg.cc/G3yCYbJ3/640px-CARTOON-NETWORK-logo.png" group-title="→ INFANTILES ←",INF• CARTOON NETWORK (HD) »1«
+http://premierchile.shop:8080/988966049tv/cmdgjw/373
+#EXTINF:-1 tvg-id="" tvg-name="INF• CARTOON NETWORK (HD) »2«" tvg-logo="https://i.postimg.cc/G3yCYbJ3/640px-CARTOON-NETWORK-logo.png" group-title="→ INFANTILES ←",INF• CARTOON NETWORK (HD) »2«
+http://premierchile.shop:8080/988966049tv/cmdgjw/374
+#EXTINF:-1 tvg-id="" tvg-name="INF• CARTOON NETWORK (HD) »3«" tvg-logo="https://i.postimg.cc/G3yCYbJ3/640px-CARTOON-NETWORK-logo.png" group-title="→ INFANTILES ←",INF• CARTOON NETWORK (HD) »3«
+http://premierchile.shop:8080/988966049tv/cmdgjw/375
+#EXTINF:-1 tvg-id="" tvg-name="INF• DISNEY JR (HD) »1«" tvg-logo="https://i.postimg.cc/KcCmsJDN/Disney-Junior.png" group-title="→ INFANTILES ←",INF• DISNEY JR (HD) »1«
+http://premierchile.shop:8080/988966049tv/cmdgjw/385
+#EXTINF:-1 tvg-id="" tvg-name="INF• DISNEY JR (HD) »2«" tvg-logo="https://i.postimg.cc/KcCmsJDN/Disney-Junior.png" group-title="→ INFANTILES ←",INF• DISNEY JR (HD) »2«
+http://premierchile.shop:8080/988966049tv/cmdgjw/386
+#EXTINF:-1 tvg-id="" tvg-name="INF• DISCOVERY KIDS (HD) »1«" tvg-logo="https://i.postimg.cc/P5srN2Lx/discovery-kids.png" group-title="→ INFANTILES ←",INF• DISCOVERY KIDS (HD) »1«
+http://premierchile.shop:8080/988966049tv/cmdgjw/376
+#EXTINF:-1 tvg-id="" tvg-name="INF• DISCOVERY KIDS (HD) »2«" tvg-logo="https://i.postimg.cc/P5srN2Lx/discovery-kids.png" group-title="→ INFANTILES ←",INF• DISCOVERY KIDS (HD) »2«
+http://premierchile.shop:8080/988966049tv/cmdgjw/377
+#EXTINF:-1 tvg-id="" tvg-name="INF• DISCOVERY KIDS (HD) »3«" tvg-logo="https://i.postimg.cc/P5srN2Lx/discovery-kids.png" group-title="→ INFANTILES ←",INF• DISCOVERY KIDS (HD) »3«
+http://premierchile.shop:8080/988966049tv/cmdgjw/378
+#EXTINF:-1 tvg-id="" tvg-name="INF• DISNEY CHANNEL (HD) »1«" tvg-logo="https://i.postimg.cc/L5LwWBmC/Disney-Channel-Logo.png" group-title="→ INFANTILES ←",INF• DISNEY CHANNEL (HD) »1«
+http://premierchile.shop:8080/988966049tv/cmdgjw/382
+#EXTINF:-1 tvg-id="" tvg-name="INF• DISNEY CHANNEL (HD) »2«" tvg-logo="https://i.postimg.cc/L5LwWBmC/Disney-Channel-Logo.png" group-title="→ INFANTILES ←",INF• DISNEY CHANNEL (HD) »2«
+http://premierchile.shop:8080/988966049tv/cmdgjw/383
+#EXTINF:-1 tvg-id="" tvg-name="INF• DISNEY CHANNEL (HD) »3«" tvg-logo="https://i.postimg.cc/L5LwWBmC/Disney-Channel-Logo.png" group-title="→ INFANTILES ←",INF• DISNEY CHANNEL (HD) »3«
+http://premierchile.shop:8080/988966049tv/cmdgjw/384
+#EXTINF:-1 tvg-id="" tvg-name="INF• TOONCAST (HD) »1«" tvg-logo="https://i.postimg.cc/C1jp3NKB/Tooncast-logo.png" group-title="→ INFANTILES ←",INF• TOONCAST (HD) »1«
+http://premierchile.shop:8080/988966049tv/cmdgjw/399
+#EXTINF:-1 tvg-id="" tvg-name="INF• TOONCAST (HD) »2«" tvg-logo="https://i.postimg.cc/C1jp3NKB/Tooncast-logo.png" group-title="→ INFANTILES ←",INF• TOONCAST (HD) »2«
+http://premierchile.shop:8080/988966049tv/cmdgjw/398
+#EXTINF:-1 tvg-id="" tvg-name="INF• TOONCAST (HD) »3«" tvg-logo="https://i.postimg.cc/C1jp3NKB/Tooncast-logo.png" group-title="→ INFANTILES ←",INF• TOONCAST (HD) »3«
+http://premierchile.shop:8080/988966049tv/cmdgjw/397
+#EXTINF:-1 tvg-id="" tvg-name="INF• DREAMWORKS (HD) »1«" tvg-logo="https://i.postimg.cc/J0151rR3/logo-Dream-Works-1.png" group-title="→ INFANTILES ←",INF• DREAMWORKS (HD) »1«
+http://premierchile.shop:8080/988966049tv/cmdgjw/61598
+#EXTINF:-1 tvg-id="" tvg-name="INF• DREAMWORKS (HD) »2«" tvg-logo="https://i.postimg.cc/J0151rR3/logo-Dream-Works-1.png" group-title="→ INFANTILES ←",INF• DREAMWORKS (HD) »2«
+http://premierchile.shop:8080/988966049tv/cmdgjw/61597
+#EXTINF:-1 tvg-id="" tvg-name="INF• DREAMWORKS (HD) »3«" tvg-logo="https://i.postimg.cc/J0151rR3/logo-Dream-Works-1.png" group-title="→ INFANTILES ←",INF• DREAMWORKS (HD) »3«
+http://premierchile.shop:8080/988966049tv/cmdgjw/61596
+#EXTINF:-1 tvg-id="" tvg-name="CUL• LOVE NATURE (HD)" tvg-logo="https://i.postimg.cc/66LSskTW/Love-Nature-TV.png" group-title="→ CULTURA ←",CUL• LOVE NATURE (HD)
+http://premierchile.shop:8080/988966049tv/cmdgjw/451
+#EXTINF:-1 tvg-id="" tvg-name="CUL• TRU TV (HD)" tvg-logo="https://i.postimg.cc/7LFcDDg6/358bb76c4f07e3b71dcd83b200a56377.png" group-title="→ CULTURA ←",CUL• TRU TV (HD)
+http://premierchile.shop:8080/988966049tv/cmdgjw/450
+#EXTINF:-1 tvg-id="" tvg-name="CUL• EL GOURMET (HD) »1«" tvg-logo="https://i.postimg.cc/JnjNXCSG/Elgourmet-logonuevo.png" group-title="→ CULTURA ←",CUL• EL GOURMET (HD) »1«
+http://premierchile.shop:8080/988966049tv/cmdgjw/427
+#EXTINF:-1 tvg-id="" tvg-name="CUL• EL GOURMET (HD) »2«" tvg-logo="https://i.postimg.cc/JnjNXCSG/Elgourmet-logonuevo.png" group-title="→ CULTURA ←",CUL• EL GOURMET (HD) »2«
+http://premierchile.shop:8080/988966049tv/cmdgjw/428
+#EXTINF:-1 tvg-id="" tvg-name="CUL• TLC (HD) »1«" tvg-logo="https://i.postimg.cc/05wkp2tt/622f4615ae7f8f3715381b48.png" group-title="→ CULTURA ←",CUL• TLC (HD) »1«
+http://premierchile.shop:8080/988966049tv/cmdgjw/447
+#EXTINF:-1 tvg-id="" tvg-name="CUL• TLC (HD) »2«" tvg-logo="https://i.postimg.cc/05wkp2tt/622f4615ae7f8f3715381b48.png" group-title="→ CULTURA ←",CUL• TLC (HD) »2«
+http://premierchile.shop:8080/988966049tv/cmdgjw/448
+#EXTINF:-1 tvg-id="" tvg-name="CUL• TLC (HD) »3«" tvg-logo="https://i.postimg.cc/05wkp2tt/622f4615ae7f8f3715381b48.png" group-title="→ CULTURA ←",CUL• TLC (HD) »3«
+http://premierchile.shop:8080/988966049tv/cmdgjw/449
+#EXTINF:-1 tvg-id="" tvg-name="CUL• ANIMAL PLANET (HD) »1«" tvg-logo="https://i.postimg.cc/6prPLFR4/2018-Animal-Planet-logo.png" group-title="→ CULTURA ←",CUL• ANIMAL PLANET (HD) »1«
+http://premierchile.shop:8080/988966049tv/cmdgjw/402
+#EXTINF:-1 tvg-id="" tvg-name="CUL• ANIMAL PLANET (HD) »2«" tvg-logo="https://i.postimg.cc/6prPLFR4/2018-Animal-Planet-logo.png" group-title="→ CULTURA ←",CUL• ANIMAL PLANET (HD) »2«
+http://premierchile.shop:8080/988966049tv/cmdgjw/403
+#EXTINF:-1 tvg-id="" tvg-name="CUL• ANIMAL PLANET (HD) »3«" tvg-logo="https://i.postimg.cc/6prPLFR4/2018-Animal-Planet-logo.png" group-title="→ CULTURA ←",CUL• ANIMAL PLANET (HD) »3«
+http://premierchile.shop:8080/988966049tv/cmdgjw/404
+#EXTINF:-1 tvg-id="" tvg-name="CUL• ANIMAL PLANET (HD) »4«" tvg-logo="https://i.postimg.cc/6prPLFR4/2018-Animal-Planet-logo.png" group-title="→ CULTURA ←",CUL• ANIMAL PLANET (HD) »4«
+http://premierchile.shop:8080/988966049tv/cmdgjw/405
+#EXTINF:-1 tvg-id="" tvg-name="CUL• HISTORY CHANNEL (HD) »1«" tvg-logo="https://i.postimg.cc/wB83mRzQ/toppng-com-svg-history-channel-logo-835x768.png" group-title="→ CULTURA ←",CUL• HISTORY CHANNEL (HD) »1«
+http://premierchile.shop:8080/988966049tv/cmdgjw/431
+#EXTINF:-1 tvg-id="" tvg-name="CUL• HISTORY CHANNEL (HD) »2«" tvg-logo="https://i.postimg.cc/wB83mRzQ/toppng-com-svg-history-channel-logo-835x768.png" group-title="→ CULTURA ←",CUL• HISTORY CHANNEL (HD) »2«
+http://premierchile.shop:8080/988966049tv/cmdgjw/432
+#EXTINF:-1 tvg-id="" tvg-name="CUL• HISTORY CHANNEL (HD) »3«" tvg-logo="https://i.postimg.cc/wB83mRzQ/toppng-com-svg-history-channel-logo-835x768.png" group-title="→ CULTURA ←",CUL• HISTORY CHANNEL (HD) »3«
+http://premierchile.shop:8080/988966049tv/cmdgjw/433
+#EXTINF:-1 tvg-id="" tvg-name="CUL• HISTORY CHANNEL (HD) »4«" tvg-logo="https://i.postimg.cc/wB83mRzQ/toppng-com-svg-history-channel-logo-835x768.png" group-title="→ CULTURA ←",CUL• HISTORY CHANNEL (HD) »4«
+http://premierchile.shop:8080/988966049tv/cmdgjw/434
+#EXTINF:-1 tvg-id="" tvg-name="CUL• HISTORY CHANNEL (HD) »5«" tvg-logo="https://i.postimg.cc/wB83mRzQ/toppng-com-svg-history-channel-logo-835x768.png" group-title="→ CULTURA ←",CUL• HISTORY CHANNEL (HD) »5«
+http://premierchile.shop:8080/988966049tv/cmdgjw/435
+#EXTINF:-1 tvg-id="" tvg-name="CUL• H2 (HD) »1«" tvg-logo="https://i.postimg.cc/3RhyP4bx/pngwing-com.png" group-title="→ CULTURA ←",CUL• H2 (HD) »1«
+http://premierchile.shop:8080/988966049tv/cmdgjw/429
+#EXTINF:-1 tvg-id="" tvg-name="CUL• H2 (HD) »2«" tvg-logo="https://i.postimg.cc/3RhyP4bx/pngwing-com.png" group-title="→ CULTURA ←",CUL• H2 (HD) »2«
+http://premierchile.shop:8080/988966049tv/cmdgjw/430
+#EXTINF:-1 tvg-id="" tvg-name="CUL• NAT GEO WILD (HD) »1«" tvg-logo="https://i.postimg.cc/wvt6469j/Nat-Geo-Wild-logo.png" group-title="→ CULTURA ←",CUL• NAT GEO WILD (HD) »1«
+http://premierchile.shop:8080/988966049tv/cmdgjw/442
+#EXTINF:-1 tvg-id="" tvg-name="CUL• NAT GEO WILD (HD) »2«" tvg-logo="https://i.postimg.cc/wvt6469j/Nat-Geo-Wild-logo.png" group-title="→ CULTURA ←",CUL• NAT GEO WILD (HD) »2«
+http://premierchile.shop:8080/988966049tv/cmdgjw/443
+#EXTINF:-1 tvg-id="" tvg-name="CUL• NAT GEO (HD) »1«" tvg-logo="https://i.postimg.cc/mkF0CkB7/kisspng-logo-national-geographic-society-television-channe-morgan-freeman-revelations-entertainment.png" group-title="→ CULTURA ←",CUL• NAT GEO (HD) »1«
+http://premierchile.shop:8080/988966049tv/cmdgjw/440
+#EXTINF:-1 tvg-id="" tvg-name="CUL• NAT GEO (HD) »2«" tvg-logo="https://i.postimg.cc/mkF0CkB7/kisspng-logo-national-geographic-society-television-channe-morgan-freeman-revelations-entertainment.png" group-title="→ CULTURA ←",CUL• NAT GEO (HD) »2«
+http://premierchile.shop:8080/988966049tv/cmdgjw/441
+#EXTINF:-1 tvg-id="" tvg-name="CUL• NAT GEO (HD) »3«" tvg-logo="https://i.postimg.cc/mkF0CkB7/kisspng-logo-national-geographic-society-television-channe-morgan-freeman-revelations-entertainment.png" group-title="→ CULTURA ←",CUL• NAT GEO (HD) »3«
+http://premierchile.shop:8080/988966049tv/cmdgjw/444
+#EXTINF:-1 tvg-id="" tvg-name="CUL• NAT GEO (HD) »4«" tvg-logo="https://i.postimg.cc/mkF0CkB7/kisspng-logo-national-geographic-society-television-channe-morgan-freeman-revelations-entertainment.png" group-title="→ CULTURA ←",CUL• NAT GEO (HD) »4«
+http://premierchile.shop:8080/988966049tv/cmdgjw/445
+#EXTINF:-1 tvg-id="" tvg-name="CUL• DISCOVERY CIVILIZATION (HD)" tvg-logo="https://i.postimg.cc/m2DMS9HY/Discovery-Civilization-logo-svg.png" group-title="→ CULTURA ←",CUL• DISCOVERY CIVILIZATION (HD)
+http://premierchile.shop:8080/988966049tv/cmdgjw/409
+#EXTINF:-1 tvg-id="" tvg-name="CUL• DISCOVERY THEATER (HD) »1«" tvg-logo="https://i.postimg.cc/52mXdNL4/20171215033423-2015-Discovery-theater-HD-logo.png" group-title="→ CULTURA ←",CUL• DISCOVERY THEATER (HD) »1«
+http://premierchile.shop:8080/988966049tv/cmdgjw/418
+#EXTINF:-1 tvg-id="" tvg-name="CUL• DISCOVERY THEATER (HD) »2«" tvg-logo="https://i.postimg.cc/52mXdNL4/20171215033423-2015-Discovery-theater-HD-logo.png" group-title="→ CULTURA ←",CUL• DISCOVERY THEATER (HD) »2«
+http://premierchile.shop:8080/988966049tv/cmdgjw/419
+#EXTINF:-1 tvg-id="" tvg-name="CUL• DISCOVERY CHANNEL (HD) »1«" tvg-logo="https://i.postimg.cc/kMWhdk11/discovery-channel-logo-0.png" group-title="→ CULTURA ←",CUL• DISCOVERY CHANNEL (HD) »1«
+http://premierchile.shop:8080/988966049tv/cmdgjw/406
+#EXTINF:-1 tvg-id="" tvg-name="CUL• DISCOVERY CHANNEL (HD) »2«" tvg-logo="https://i.postimg.cc/kMWhdk11/discovery-channel-logo-0.png" group-title="→ CULTURA ←",CUL• DISCOVERY CHANNEL (HD) »2«
+http://premierchile.shop:8080/988966049tv/cmdgjw/407
+#EXTINF:-1 tvg-id="" tvg-name="CUL• DISCOVERY CHANNEL (HD) »3«" tvg-logo="https://i.postimg.cc/kMWhdk11/discovery-channel-logo-0.png" group-title="→ CULTURA ←",CUL• DISCOVERY CHANNEL (HD) »3«
+http://premierchile.shop:8080/988966049tv/cmdgjw/408
+#EXTINF:-1 tvg-id="" tvg-name="CUL• DISCOVERY TURBO (HD) »1«" tvg-logo="https://i.postimg.cc/rpQgmTXc/kisspng-discovery-turbo-television-channel-discovery-chann-5ae242c2a7be57-7776958815247776666871.png" group-title="→ CULTURA ←",CUL• DISCOVERY TURBO (HD) »1«
+http://premierchile.shop:8080/988966049tv/cmdgjw/420
+#EXTINF:-1 tvg-id="" tvg-name="CUL• DISCOVERY TURBO (HD) »2«" tvg-logo="https://i.postimg.cc/rpQgmTXc/kisspng-discovery-turbo-television-channel-discovery-chann-5ae242c2a7be57-7776958815247776666871.png" group-title="→ CULTURA ←",CUL• DISCOVERY TURBO (HD) »2«
+http://premierchile.shop:8080/988966049tv/cmdgjw/421
+#EXTINF:-1 tvg-id="" tvg-name="CUL• DISCOVERY TURBO (HD) »3«" tvg-logo="https://i.postimg.cc/rpQgmTXc/kisspng-discovery-turbo-television-channel-discovery-chann-5ae242c2a7be57-7776958815247776666871.png" group-title="→ CULTURA ←",CUL• DISCOVERY TURBO (HD) »3«
+http://premierchile.shop:8080/988966049tv/cmdgjw/422
+#EXTINF:-1 tvg-id="" tvg-name="CUL• DISCOVERY WORLD (HD) »1«" tvg-logo="https://i.postimg.cc/bNc54zqF/World-Discovery-HD-logo.png" group-title="→ CULTURA ←",CUL• DISCOVERY WORLD (HD) »1«
+http://premierchile.shop:8080/988966049tv/cmdgjw/423
+#EXTINF:-1 tvg-id="" tvg-name="CUL• DISCOVERY WORLD (HD) »2«" tvg-logo="https://i.postimg.cc/bNc54zqF/World-Discovery-HD-logo.png" group-title="→ CULTURA ←",CUL• DISCOVERY WORLD (HD) »2«
+http://premierchile.shop:8080/988966049tv/cmdgjw/424
+#EXTINF:-1 tvg-id="" tvg-name="CUL• DISCOVERY WORLD (HD) »3«" tvg-logo="https://i.postimg.cc/bNc54zqF/World-Discovery-HD-logo.png" group-title="→ CULTURA ←",CUL• DISCOVERY WORLD (HD) »3«
+http://premierchile.shop:8080/988966049tv/cmdgjw/425
+#EXTINF:-1 tvg-id="" tvg-name="CUL• DISCOVERY INVESTIGATION (HD) »1«" tvg-logo="https://i.postimg.cc/y898s6Rg/ID-Investiga-o-Discovery.png" group-title="→ CULTURA ←",CUL• DISCOVERY INVESTIGATION (HD) »1«
+http://premierchile.shop:8080/988966049tv/cmdgjw/437
+#EXTINF:-1 tvg-id="" tvg-name="CUL• DISCOVERY INVESTIGATION (HD) »2«" tvg-logo="https://i.postimg.cc/y898s6Rg/ID-Investiga-o-Discovery.png" group-title="→ CULTURA ←",CUL• DISCOVERY INVESTIGATION (HD) »2«
+http://premierchile.shop:8080/988966049tv/cmdgjw/438
+#EXTINF:-1 tvg-id="" tvg-name="CUL• DISCOVERY INVESTIGATION (HD) »3«" tvg-logo="https://i.postimg.cc/y898s6Rg/ID-Investiga-o-Discovery.png" group-title="→ CULTURA ←",CUL• DISCOVERY INVESTIGATION (HD) »3«
+http://premierchile.shop:8080/988966049tv/cmdgjw/439
+#EXTINF:-1 tvg-id="" tvg-name="CUL• DISCOVERY H&H (HD) »1«" tvg-logo="https://i.postimg.cc/mrQFrNvs/discovery-home-and-health-logo.png" group-title="→ CULTURA ←",CUL• DISCOVERY H&H (HD) »1«
+http://premierchile.shop:8080/988966049tv/cmdgjw/410
+#EXTINF:-1 tvg-id="" tvg-name="CUL• DISCOVERY H&H (HD) »2«" tvg-logo="https://i.postimg.cc/mrQFrNvs/discovery-home-and-health-logo.png" group-title="→ CULTURA ←",CUL• DISCOVERY H&H (HD) »2«
+http://premierchile.shop:8080/988966049tv/cmdgjw/411
+#EXTINF:-1 tvg-id="" tvg-name="CUL• DISCOVERY H&H (HD) »3«" tvg-logo="https://i.postimg.cc/mrQFrNvs/discovery-home-and-health-logo.png" group-title="→ CULTURA ←",CUL• DISCOVERY H&H (HD) »3«
+http://premierchile.shop:8080/988966049tv/cmdgjw/412
+#EXTINF:-1 tvg-id="" tvg-name="CUL• DISCOVERY H&H (HD) »4«" tvg-logo="https://i.postimg.cc/mrQFrNvs/discovery-home-and-health-logo.png" group-title="→ CULTURA ←",CUL• DISCOVERY H&H (HD) »4«
+http://premierchile.shop:8080/988966049tv/cmdgjw/413
+#EXTINF:-1 tvg-id="" tvg-name="CUL• DISCOVERY SCIENCE (HD) »1«" tvg-logo="https://i.postimg.cc/rsbpjKBj/640px-Discovery-science-new-logo-2017.png" group-title="→ CULTURA ←",CUL• DISCOVERY SCIENCE (HD) »1«
+http://premierchile.shop:8080/988966049tv/cmdgjw/414
+#EXTINF:-1 tvg-id="" tvg-name="CUL• DISCOVERY SCIENCE (HD) »2«" tvg-logo="https://i.postimg.cc/rsbpjKBj/640px-Discovery-science-new-logo-2017.png" group-title="→ CULTURA ←",CUL• DISCOVERY SCIENCE (HD) »2«
+http://premierchile.shop:8080/988966049tv/cmdgjw/415
+#EXTINF:-1 tvg-id="" tvg-name="CUL• DISCOVERY SCIENCE (HD) »3«" tvg-logo="https://i.postimg.cc/rsbpjKBj/640px-Discovery-science-new-logo-2017.png" group-title="→ CULTURA ←",CUL• DISCOVERY SCIENCE (HD) »3«
+http://premierchile.shop:8080/988966049tv/cmdgjw/416
+#EXTINF:-1 tvg-id="" tvg-name="CUL• DISCOVERY SCIENCE (HD) »4«" tvg-logo="https://i.postimg.cc/rsbpjKBj/640px-Discovery-science-new-logo-2017.png" group-title="→ CULTURA ←",CUL• DISCOVERY SCIENCE (HD) »4«
+http://premierchile.shop:8080/988966049tv/cmdgjw/417
+#EXTINF:-1 tvg-id="Teleamazonas.(Quito).(TAMAZ)..ec" tvg-name="ECU-Teleamazonas Quito (e)(1080)" tvg-logo="https://1.bp.blogspot.com/-vnDdEpVWZrI/XjhCQ7uzvVI/AAAAAAAABCY/tiQzWxXnRtoP5l96kvGpXs1UsPvcJSZngCLcBGAsYHQ/s200/4.png" group-title="→ ENTRETENIMIENTO ←",ECU-Teleamazonas Quito (e)(1080)
+http://tv.proyectox.vip:8080/deviacarlos1/wCSbrTqZgj/8648
+#EXTINF:-1 tvg-id="Teleamazonas.(Quito).(TAMAZ)..ec" tvg-name="ECU-TeleAmazonas Costa (e)(1080)" tvg-logo="https://i.postimg.cc/CKXd8NFb/ECU-Tele-Amazonas-Costa.png" group-title="→ ENTRETENIMIENTO ←",ECU-TeleAmazonas Costa (1080)
+http://tv.proyectox.vip:8080/deviacarlos1/wCSbrTqZgj/8645
+#EXTINF:-1 tvg-id="" tvg-name="USA | USA Telemundo New York" tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="→ ENTRETENIMIENTO ←",USA | USA Telemundo New York
+http://premierchile.shop:8080/988966049tv/cmdgjw/23656
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo Philadelphia" tvg-logo="https://i.ibb.co/YtHy9F6/TELEUINDF.png" group-title="→ ENTRETENIMIENTO ←",Telemundo Philadelphia
+http://premierchile.shop:8080/988966049tv/cmdgjw/68090
+#EXTINF:-1 tvg-id="" tvg-name="USA | NBC Telemundo" tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="→ ENTRETENIMIENTO ←",USA | NBC Telemundo
+http://premierchile.shop:8080/988966049tv/cmdgjw/23434
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC Washington" tvg-logo="" group-title="→ ENTRETENIMIENTO ←",NBC Washington
+http://premierchile.shop:8080/988966049tv/cmdgjw/23474
+#EXTINF:-1 tvg-id="" tvg-name="Argentina - TV Publica FHD" tvg-logo="http://daleplay.biz:8080/images/78c7c06a9abed64d546c2a3e65236269.png" group-title="→ ENTRETENIMIENTO ←",Argentina - TV Publica FHD
+http://premierchile.shop:8080/988966049tv/cmdgjw/16159
+#EXTINF:-1 tvg-id="" tvg-name="Argentina - TV Publica HD" tvg-logo="http://daleplay.biz:8080/images/78c7c06a9abed64d546c2a3e65236269.png" group-title="→ ENTRETENIMIENTO ←",Argentina - TV Publica HD
+http://premierchile.shop:8080/988966049tv/cmdgjw/16160
+#EXTINF:-1 tvg-id="" tvg-name="Argentina|| TELEFE HD" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="→ ENTRETENIMIENTO ←",Argentina|| TELEFE HD
+http://premierchile.shop:8080/988966049tv/cmdgjw/61544
+#EXTINF:-1 tvg-id="" tvg-name="COL• RCN (HD) »1«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Logo_RCN_Televisi%C3%B3n.png" group-title="→ ENTRETENIMIENTO ←",COL• RCN (HD) »2«
+http://premierchile.shop:8080/988966049tv/cmdgjw/344
+#EXTINF:-1 tvg-id="chv.cl" tvg-name="CL• CHV (HD) »1«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Chilevisi%C3%B3n_%282018-%29.png" group-title="→ ENTRETENIMIENTO ←",CL• CHV (HD) »1«
+http://premierchile.shop:8080/988966049tv/cmdgjw/47
+#EXTINF:-1 tvg-id="chv.cl" tvg-name="CL• CHV (HD) »2«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Chilevisi%C3%B3n_%282018-%29.png" group-title="→ ENTRETENIMIENTO ←",CL• CHV (HD) »2«
+http://premierchile.shop:8080/988966049tv/cmdgjw/46
+#EXTINF:-1 tvg-id="" tvg-name="ENT| Pasiones" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1280px-Pasiones_Tv_logo.svg.png" group-title="→ ENTRETENIMIENTO ←",ENT| Pasiones
+http://premierchile.shop:8080/988966049tv/cmdgjw/590
+#EXTINF:-1 tvg-id="" tvg-name="ENT| Pasiones TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1280px-Pasiones_Tv_logo.svg.png" group-title="→ ENTRETENIMIENTO ←",ENT| Pasiones TV HD
+http://premierchile.shop:8080/988966049tv/cmdgjw/591
+#EXTINF:-1 tvg-id="" tvg-name="ENT| Pasiones OP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1280px-Pasiones_Tv_logo.svg.png" group-title="→ ENTRETENIMIENTO ←",ENT| Pasiones OP
+http://premierchile.shop:8080/988966049tv/cmdgjw/592
+#EXTINF:-1 tvg-id="" tvg-name="ENT| GLITZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_Glitz.svg/1280px-Logo_Glitz.svg.png" group-title="→ ENTRETENIMIENTO ←",ENT| GLITZ
+http://premierchile.shop:8080/988966049tv/cmdgjw/593
+#EXTINF:-1 tvg-id="" tvg-name="ENT| GLITZ´OP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_Glitz.svg/1280px-Logo_Glitz.svg.png" group-title="→ ENTRETENIMIENTO ←",ENT| GLITZ´OP
+http://premierchile.shop:8080/988966049tv/cmdgjw/594
+#EXTINF:-1 tvg-id="" tvg-name="ENT| Glitz HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_Glitz.svg/1280px-Logo_Glitz.svg.png" group-title="→ ENTRETENIMIENTO ←",ENT| Glitz HD
+http://premierchile.shop:8080/988966049tv/cmdgjw/595
+#EXTINF:-1 tvg-id="" tvg-name="ENT| El GOURMET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Elgourmetlogo2015.png/120px-Elgourmetlogo2015.png" group-title="→ ENTRETENIMIENTO ←",ENT| El GOURMET
+http://premierchile.shop:8080/988966049tv/cmdgjw/596
+#EXTINF:-1 tvg-id="" tvg-name="ENT| El Gourmet OP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Elgourmetlogo2015.png/120px-Elgourmetlogo2015.png" group-title="→ ENTRETENIMIENTO ←",ENT| El Gourmet OP
+http://premierchile.shop:8080/988966049tv/cmdgjw/597
+#EXTINF:-1 tvg-id="" tvg-name="ENT| El Gourmet HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Elgourmetlogo2015.png/120px-Elgourmetlogo2015.png" group-title="→ ENTRETENIMIENTO ←",ENT| El Gourmet HD
+http://premierchile.shop:8080/988966049tv/cmdgjw/598
+#EXTINF:-1 tvg-id="" tvg-name="ENT| Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png" group-title="→ ENTRETENIMIENTO ←",ENT| Food Network
+http://premierchile.shop:8080/988966049tv/cmdgjw/599
+#EXTINF:-1 tvg-id="" tvg-name="ENT| Food Network OP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png" group-title="→ ENTRETENIMIENTO ←",ENT| Food Network OP
+http://premierchile.shop:8080/988966049tv/cmdgjw/600
+#EXTINF:-1 tvg-id="" tvg-name="ENT| Food Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png" group-title="→ ENTRETENIMIENTO ←",ENT| Food Network HD
+http://premierchile.shop:8080/988966049tv/cmdgjw/601
+#EXTINF:-1 tvg-id="" tvg-name="ENT| El Garage TV" tvg-logo="https://w7.pngwing.com/pngs/926/901/png-transparent-el-garage-tv-television-publica-argentina-television-channel-logo-nick-jr-television-emblem-logo.png" group-title="→ ENTRETENIMIENTO ←",ENT| El Garage TV
+http://premierchile.shop:8080/988966049tv/cmdgjw/602
+#EXTINF:-1 tvg-id="" tvg-name="ENT| Garage TV HD" tvg-logo="https://w7.pngwing.com/pngs/926/901/png-transparent-el-garage-tv-television-publica-argentina-television-channel-logo-nick-jr-television-emblem-logo.png" group-title="→ ENTRETENIMIENTO ←",ENT| Garage TV HD
+http://premierchile.shop:8080/988966049tv/cmdgjw/603
+#EXTINF:-1 tvg-id="" tvg-name="ENT| Telemundo Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="→ ENTRETENIMIENTO ←",ENT| Telemundo Internacional
+http://premierchile.shop:8080/988966049tv/cmdgjw/604
+#EXTINF:-1 tvg-id="" tvg-name="ENT| Telemundo Internacional HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="→ ENTRETENIMIENTO ←",ENT| Telemundo Internacional HD
+http://premierchile.shop:8080/988966049tv/cmdgjw/605
+#EXTINF:-1 tvg-id="" tvg-name="ENT| LIFETIME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Lifetime_tv_logo.png" group-title="→ ENTRETENIMIENTO ←",ENT| LIFETIME
+http://premierchile.shop:8080/988966049tv/cmdgjw/606
+#EXTINF:-1 tvg-id="" tvg-name="ENT| Lifetime OP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Lifetime_tv_logo.png" group-title="→ ENTRETENIMIENTO ←",ENT| Lifetime OP
+http://premierchile.shop:8080/988966049tv/cmdgjw/607
+#EXTINF:-1 tvg-id="" tvg-name="ENT| Lifetime HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Lifetime_tv_logo.png" group-title="→ ENTRETENIMIENTO ←",ENT| Lifetime HD
+http://premierchile.shop:8080/988966049tv/cmdgjw/608
+#EXTINF:-1 tvg-id="" tvg-name="ENT| LA_Univision HD." tvg-logo="https://tl.vhv.rs/dpng/s/34-348140_logo-de-univision-hd-png-download.png" group-title="→ ENTRETENIMIENTO ←",ENT| LA_Univision HD.
+http://premierchile.shop:8080/988966049tv/cmdgjw/609
+#EXTINF:-1 tvg-id="" tvg-name="ENT| Univision Miami HD" tvg-logo="https://static.univision.com/fragments/noticias/home-locales-tudn/images/radio-stations/miami/univision-23-fl.png" group-title="→ ENTRETENIMIENTO ←",ENT| Univision Miami HD
+http://premierchile.shop:8080/988966049tv/cmdgjw/610
+#EXTINF:-1 tvg-id="" tvg-name="ENT| Tlnovelas" tvg-logo="https://pbs.twimg.com/profile_images/1214269997595471872/k0Mcs-1D_200x200.png" group-title="→ ENTRETENIMIENTO ←",ENT| Tlnovelas
+http://premierchile.shop:8080/988966049tv/cmdgjw/611
+#EXTINF:-1 tvg-id="" tvg-name="ENT| Tlnovelas HD" tvg-logo="https://pbs.twimg.com/profile_images/1214269997595471872/k0Mcs-1D_200x200.png" group-title="→ ENTRETENIMIENTO ←",ENT| Tlnovelas HD
+http://premierchile.shop:8080/988966049tv/cmdgjw/612
+#EXTINF:-1 tvg-id="" tvg-name="ENT| CANAL COCINA" tvg-logo="https://canalcocina.es/images/canalcocina.png" group-title="→ ENTRETENIMIENTO ←",ENT| CANAL COCINA
+http://premierchile.shop:8080/988966049tv/cmdgjw/613
+#EXTINF:-1 tvg-id="" tvg-name="ENT| Cocina TV" tvg-logo="https://canalcocina.es/images/canalcocina.png" group-title="→ ENTRETENIMIENTO ←",ENT| Cocina TV
+http://premierchile.shop:8080/988966049tv/cmdgjw/614
+#EXTINF:-1 tvg-id="" tvg-name="ENT| Antena 3 Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Antena_3_Internacional_logo_2017.svg/1200px-Antena_3_Internacional_logo_2017.svg.png" group-title="→ ENTRETENIMIENTO ←",ENT| Antena 3 Internacional
+http://premierchile.shop:8080/988966049tv/cmdgjw/615
+#EXTINF:-1 tvg-id="" tvg-name="ENT| Antena 3 Internacional HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Antena_3_Internacional_logo_2017.svg/1200px-Antena_3_Internacional_logo_2017.svg.png" group-title="→ ENTRETENIMIENTO ←",ENT| Antena 3 Internacional HD
+http://premierchile.shop:8080/988966049tv/cmdgjw/616
+#EXTINF:-1 tvg-id="" tvg-name="ENT| Antena 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/1200px-Antena_3_%282017%29.svg.png" group-title="→ ENTRETENIMIENTO ←",ENT| Antena 3
+http://premierchile.shop:8080/988966049tv/cmdgjw/617
+#EXTINF:-1 tvg-id="" tvg-name="ENT| Antena 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/1200px-Antena_3_%282017%29.svg.png" group-title="→ ENTRETENIMIENTO ←",ENT| Antena 3 HD
+http://premierchile.shop:8080/988966049tv/cmdgjw/618
+#EXTINF:-1 tvg-id="" tvg-name="ENT| Antena 3 HD OP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/1200px-Antena_3_%282017%29.svg.png" group-title="→ ENTRETENIMIENTO ←",ENT| Antena 3 HD OP
+http://premierchile.shop:8080/988966049tv/cmdgjw/619
+#EXTINF:-1 tvg-id="" tvg-name="ENT| Caza y Pesca HD" tvg-logo="https://ewsat.com/img/CAZA_Y_PESCA.png" group-title="→ ENTRETENIMIENTO ←",ENT| Caza y Pesca HD
+http://premierchile.shop:8080/988966049tv/cmdgjw/620
+#EXTINF:-1 tvg-id="" tvg-name="ENT| HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png" group-title="→ ENTRETENIMIENTO ←",ENT| HGTV
+http://premierchile.shop:8080/988966049tv/cmdgjw/621
+#EXTINF:-1 tvg-id="" tvg-name="ENT| Más Chic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg/1200px-Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg.png" group-title="→ ENTRETENIMIENTO ←",ENT| Más Chic
+http://premierchile.shop:8080/988966049tv/cmdgjw/622
+#EXTINF:-1 tvg-id="" tvg-name="ENT| Más Chic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg/1200px-Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg.png" group-title="→ ENTRETENIMIENTO ←",ENT| Más Chic
+http://premierchile.shop:8080/988966049tv/cmdgjw/623
+#EXTINF:-1 tvg-id="" tvg-name="ENT| Más Chic HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg/1200px-Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg.png" group-title="→ ENTRETENIMIENTO ←",ENT| Más Chic HD
+http://premierchile.shop:8080/988966049tv/cmdgjw/624
+#EXTINF:-1 tvg-id="" tvg-name="ENT| Más Chic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg/1200px-Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg.png" group-title="→ ENTRETENIMIENTO ←",ENT| Más Chic
+http://premierchile.shop:8080/988966049tv/cmdgjw/625
+#EXTINF:-1 tvg-id="" tvg-name="ENT| HGTV." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png" group-title="→ ENTRETENIMIENTO ←",ENT| HGTV.
+http://premierchile.shop:8080/988966049tv/cmdgjw/626
+#EXTINF:-1 tvg-id="" tvg-name="ENT| E! Entertainment" tvg-logo="https://i.pinimg.com/originals/4e/fd/fd/4efdfddc6dafa48064a41f9b6f1d6293.png" group-title="→ ENTRETENIMIENTO ←",ENT| E! Entertainment
+http://premierchile.shop:8080/988966049tv/cmdgjw/627
+#EXTINF:-1 tvg-id="" tvg-name="ENT| E! Entertainment HD" tvg-logo="https://i.pinimg.com/originals/4e/fd/fd/4efdfddc6dafa48064a41f9b6f1d6293.png" group-title="→ ENTRETENIMIENTO ←",ENT| E! Entertainment HD
+http://premierchile.shop:8080/988966049tv/cmdgjw/628
+#EXTINF:-1 tvg-id="" tvg-name="ENT| E! Entertainment" tvg-logo="https://i.pinimg.com/originals/4e/fd/fd/4efdfddc6dafa48064a41f9b6f1d6293.png" group-title="→ ENTRETENIMIENTO ←",ENT| E! Entertainment
+http://premierchile.shop:8080/988966049tv/cmdgjw/629
+#EXTINF:-1 tvg-id="" tvg-name="ENT| HOLA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/%C2%A1HOLA%21TVlogo.jpg" group-title="→ ENTRETENIMIENTO ←",ENT| HOLA TV
+http://premierchile.shop:8080/988966049tv/cmdgjw/630
+#EXTINF:-1 tvg-id="" tvg-name="ENT| Hola TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/%C2%A1HOLA%21TVlogo.jpg" group-title="→ ENTRETENIMIENTO ←",ENT| Hola TV HD
+http://premierchile.shop:8080/988966049tv/cmdgjw/631
+#EXTINF:-1 tvg-id="" tvg-name="ENT| Las Estrellas HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="→ ENTRETENIMIENTO ←",ENT| Las Estrellas HD
+http://premierchile.shop:8080/988966049tv/cmdgjw/632
+#EXTINF:-1 tvg-id="" tvg-name="ENT| Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="→ ENTRETENIMIENTO ←",ENT| Las Estrellas
+http://premierchile.shop:8080/988966049tv/cmdgjw/633
+#EXTINF:-1 tvg-id="" tvg-name="MEX| Distrito Comedia ." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png" group-title="→ ENTRETENIMIENTO ←",MEX| Distrito Comedia .
+http://premierchile.shop:8080/988966049tv/cmdgjw/634
+#EXTINF:-1 tvg-id="" tvg-name="MEX| Distrito Comedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png" group-title="→ ENTRETENIMIENTO ←",MEX| Distrito Comedia
+http://premierchile.shop:8080/988966049tv/cmdgjw/635
+#EXTINF:-1 tvg-id="" tvg-name="ENT: Rai Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1200px-Rai_Italia_-_Logo_2017.svg.png" group-title="→ ENTRETENIMIENTO ←",ENT: Rai Italia
+http://premierchile.shop:8080/988966049tv/cmdgjw/636
+#EXTINF:-1 tvg-id="" tvg-name="ENT: Rai Italia HQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1200px-Rai_Italia_-_Logo_2017.svg.png" group-title="→ ENTRETENIMIENTO ←",ENT: Rai Italia HQ
+http://premierchile.shop:8080/988966049tv/cmdgjw/637
+#EXTINF:-1 tvg-id="" tvg-name="ENT: Rai Italia HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1200px-Rai_Italia_-_Logo_2017.svg.png" group-title="→ ENTRETENIMIENTO ←",ENT: Rai Italia HD
+http://premierchile.shop:8080/988966049tv/cmdgjw/638
+#EXTINF:-1 tvg-id="" tvg-name="ENT| CANAL+ FHD" tvg-logo="https://www.digitaltveurope.com/files/2022/02/Canal-logo-logotype.png" group-title="→ ENTRETENIMIENTO ←",ENT| CANAL+ FHD
+http://premierchile.shop:8080/988966049tv/cmdgjw/641
+#EXTINF:-1 tvg-id="I5.87004.schedulesdirect.org" tvg-name="C/S• A&E (HD) »1«" tvg-logo="https://i.ibb.co/6tb3kYR/CineAyE.jpg" group-title="→ CINE & SERIES ←",C/S• A&E (HD) »1«
+http://premierchile.shop:8080/988966049tv/cmdgjw/100
+#EXTINF:-1 tvg-id="a-e-mundo.mx" tvg-name="C/S• A&E (HD) »2«" tvg-logo="https://i.ibb.co/6tb3kYR/CineAyE.jpg" group-title="→ CINE & SERIES ←",C/S• A&E (HD) »2«
+http://premierchile.shop:8080/988966049tv/cmdgjw/101
+#EXTINF:-1 tvg-id="a-e-mundo.mx" tvg-name="C/S• A&E (HD) »3«" tvg-logo="https://i.ibb.co/6tb3kYR/CineAyE.jpg" group-title="→ CINE & SERIES ←",C/S• A&E (HD) »3«
+http://premierchile.shop:8080/988966049tv/cmdgjw/102
+#EXTINF:-1 tvg-id="207dtv.cl" tvg-name="C/S• A&E (HD) »4«" tvg-logo="https://i.ibb.co/6tb3kYR/CineAyE.jpg" group-title="→ CINE & SERIES ←",C/S• A&E (HD) »4«
+http://premierchile.shop:8080/988966049tv/cmdgjw/103
+#EXTINF:-1 tvg-id="210dtv.cl" tvg-name="C/S• AMC (HD) »1«" tvg-logo="https://i.ibb.co/m8Txm1X/AMCHD.jpg" group-title="→ CINE & SERIES ←",C/S• AMC (HD) »1«
+http://premierchile.shop:8080/988966049tv/cmdgjw/104
+#EXTINF:-1 tvg-id="amc.mx" tvg-name="C/S• AMC (HD) »2«" tvg-logo="https://i.ibb.co/m8Txm1X/AMCHD.jpg" group-title="→ CINE & SERIES ←",C/S• AMC (HD) »2«
+http://premierchile.shop:8080/988966049tv/cmdgjw/105
+#EXTINF:-1 tvg-id="amc.mx" tvg-name="C/S• AMC (HD) »3«" tvg-logo="https://i.ibb.co/m8Txm1X/AMCHD.jpg" group-title="→ CINE & SERIES ←",C/S• AMC (HD) »3«
+http://premierchile.shop:8080/988966049tv/cmdgjw/106
+#EXTINF:-1 tvg-id="209dtv.cl" tvg-name="C/S• AXN (HD) »1«" tvg-logo="https://i.ibb.co/NZ66vJS/AXNHD.jpg" group-title="→ CINE & SERIES ←",C/S• AXN (HD) »1«
+http://premierchile.shop:8080/988966049tv/cmdgjw/107
+#EXTINF:-1 tvg-id="209dtv.cl" tvg-name="C/S• AXN (HD) »2«" tvg-logo="https://i.ibb.co/NZ66vJS/AXNHD.jpg" group-title="→ CINE & SERIES ←",C/S• AXN (HD) »2«
+http://premierchile.shop:8080/988966049tv/cmdgjw/108
+#EXTINF:-1 tvg-id="209dtv.cl" tvg-name="C/S• AXN (HD) »3«" tvg-logo="https://i.ibb.co/NZ66vJS/AXNHD.jpg" group-title="→ CINE & SERIES ←",C/S• AXN (HD) »3«
+http://premierchile.shop:8080/988966049tv/cmdgjw/109
+#EXTINF:-1 tvg-id="514dtv.cl" tvg-name="C/S• CINE LATINO (HD) »1«" tvg-logo="https://i.ibb.co/HgyMDvV/CINELATINO.jpg" group-title="→ CINE & SERIES ←",C/S• CINE LATINO (HD) »1«
+http://premierchile.shop:8080/988966049tv/cmdgjw/110
+#EXTINF:-1 tvg-id="514dtv.cl" tvg-name="C/S• CINE LATINO (HD) »2«" tvg-logo="https://i.ibb.co/HgyMDvV/CINELATINO.jpg" group-title="→ CINE & SERIES ←",C/S• CINE LATINO (HD) »2«
+http://premierchile.shop:8080/988966049tv/cmdgjw/111
+#EXTINF:-1 tvg-id="507dtv.co" tvg-name="C/S• CINE CANAL (HD) »1«" tvg-logo="https://i.ibb.co/S0h94pk/CINECANAL.jpg" group-title="→ CINE & SERIES ←",C/S• CINE CANAL (HD) »1«
+http://premierchile.shop:8080/988966049tv/cmdgjw/112
+#EXTINF:-1 tvg-id="507dtv.ar" tvg-name="C/S• CINE CANAL (HD) »2«" tvg-logo="https://i.ibb.co/S0h94pk/CINECANAL.jpg" group-title="→ CINE & SERIES ←",C/S• CINE CANAL (HD) »2«
+http://premierchile.shop:8080/988966049tv/cmdgjw/113
+#EXTINF:-1 tvg-id="507dtv.ar" tvg-name="C/S• CINE CANAL (HD) »3«" tvg-logo="https://i.ibb.co/S0h94pk/CINECANAL.jpg" group-title="→ CINE & SERIES ←",C/S• CINE CANAL (HD) »3«
+http://premierchile.shop:8080/988966049tv/cmdgjw/114
+#EXTINF:-1 tvg-id="" tvg-name="C/S• CINE CANAL (HD) »4«" tvg-logo="https://i.ibb.co/S0h94pk/CINECANAL.jpg" group-title="→ CINE & SERIES ←",C/S• CINE CANAL (HD) »4«
+http://premierchile.shop:8080/988966049tv/cmdgjw/115
+#EXTINF:-1 tvg-id="" tvg-name="C/S• CINE DINAMITA (HD) »1«" tvg-logo="https://i.ibb.co/X7HbkNy/CINEDINAMITA.jpg" group-title="→ CINE & SERIES ←",C/S• CINE DINAMITA (HD) »1«
+http://premierchile.shop:8080/988966049tv/cmdgjw/116
+#EXTINF:-1 tvg-id="" tvg-name="C/S• CINE DINAMITA (HD) »2«" tvg-logo="https://i.ibb.co/X7HbkNy/CINEDINAMITA.jpg" group-title="→ CINE & SERIES ←",C/S• CINE DINAMITA (HD) »2«
+http://premierchile.shop:8080/988966049tv/cmdgjw/117
+#EXTINF:-1 tvg-id="" tvg-name="C/S• CINEMAX (HD) »1«" tvg-logo="https://i.ibb.co/xjsQJ2P/CINEMAX.jpg" group-title="→ CINE & SERIES ←",C/S• CINEMAX (HD) »1«
+http://premierchile.shop:8080/988966049tv/cmdgjw/118
+#EXTINF:-1 tvg-id="1509dtv.cl" tvg-name="C/S• CINEMAX (HD) »2«" tvg-logo="https://i.ibb.co/xjsQJ2P/CINEMAX.jpg" group-title="→ CINE & SERIES ←",C/S• CINEMAX (HD) »2«
+http://premierchile.shop:8080/988966049tv/cmdgjw/119
+#EXTINF:-1 tvg-id="1513dtv.cl" tvg-name="C/S• DHE (HD) »1«" tvg-logo="https://i.ibb.co/FW2yCV3/DHD.jpg" group-title="→ CINE & SERIES ←",C/S• DHE (HD) »1«
+http://premierchile.shop:8080/988966049tv/cmdgjw/121
+#EXTINF:-1 tvg-id="1513dtv.cl" tvg-name="C/S• DHE (HD) »2«" tvg-logo="https://i.ibb.co/FW2yCV3/DHD.jpg" group-title="→ CINE & SERIES ←",C/S• DHE (HD) »2«
+http://premierchile.shop:8080/988966049tv/cmdgjw/122
+#EXTINF:-1 tvg-id="1513dtv.cl" tvg-name="C/S• DHE (HD) »3«" tvg-logo="https://i.ibb.co/FW2yCV3/DHD.jpg" group-title="→ CINE & SERIES ←",C/S• DHE (HD) »3«
+http://premierchile.shop:8080/988966049tv/cmdgjw/123
+#EXTINF:-1 tvg-id="217dtv.cl" tvg-name="C/S• FX (HD) »1«" tvg-logo="https://i.ibb.co/hs5pPQB/FXHD.jpg" group-title="→ CINE & SERIES ←",C/S• FX (HD) »1«
+http://premierchile.shop:8080/988966049tv/cmdgjw/124
+#EXTINF:-1 tvg-id="217dtv.cl" tvg-name="C/S• FX (HD) »2«" tvg-logo="https://i.ibb.co/hs5pPQB/FXHD.jpg" group-title="→ CINE & SERIES ←",C/S• FX (HD) »2«
+http://premierchile.shop:8080/988966049tv/cmdgjw/125
+#EXTINF:-1 tvg-id="217dtv.cl" tvg-name="C/S• FX (HD) »3«" tvg-logo="https://i.ibb.co/hs5pPQB/FXHD.jpg" group-title="→ CINE & SERIES ←",C/S• FX (HD) »3«
+http://premierchile.shop:8080/988966049tv/cmdgjw/126
+#EXTINF:-1 tvg-id="1503dtv.cl" tvg-name="C/S• GOLDEN (HD) »1«" tvg-logo="https://i.ibb.co/TP1rVyx/GOLDEN.jpg" group-title="→ CINE & SERIES ←",C/S• GOLDEN (HD) »1«
+http://premierchile.shop:8080/988966049tv/cmdgjw/127
+#EXTINF:-1 tvg-id="517dtv.cl" tvg-name="C/S• GOLDEN (HD) »2«" tvg-logo="https://i.ibb.co/TP1rVyx/GOLDEN.jpg" group-title="→ CINE & SERIES ←",C/S• GOLDEN (HD) »2«
+http://premierchile.shop:8080/988966049tv/cmdgjw/128
+#EXTINF:-1 tvg-id="1503dtv.cl" tvg-name="C/S• GOLDEN (HD) »3«" tvg-logo="https://i.ibb.co/TP1rVyx/GOLDEN.jpg" group-title="→ CINE & SERIES ←",C/S• GOLDEN (HD) »3«
+http://premierchile.shop:8080/988966049tv/cmdgjw/129
+#EXTINF:-1 tvg-id="hbo-2.mx" tvg-name="C/S• HBO 2 (HD) »1«" tvg-logo="https://i.ibb.co/0XZg6R7/HBO2.jpg" group-title="→ CINE & SERIES ←",C/S• HBO 2 (HD) »1«
+http://premierchile.shop:8080/988966049tv/cmdgjw/131
+#EXTINF:-1 tvg-id="525dtv.cl" tvg-name="C/S• HBO 2 (HD) »2«" tvg-logo="https://i.ibb.co/0XZg6R7/HBO2.jpg" group-title="→ CINE & SERIES ←",C/S• HBO 2 (HD) »2«
+http://premierchile.shop:8080/988966049tv/cmdgjw/132
+#EXTINF:-1 tvg-id="hbo-2.mx" tvg-name="C/S• HBO 2 (HD) »3«" tvg-logo="https://i.ibb.co/0XZg6R7/HBO2.jpg" group-title="→ CINE & SERIES ←",C/S• HBO 2 (HD) »3«
+http://premierchile.shop:8080/988966049tv/cmdgjw/133
+#EXTINF:-1 tvg-id="hbo-2.mx" tvg-name="C/S• HBO 2 (HD) »4«" tvg-logo="https://i.ibb.co/0XZg6R7/HBO2.jpg" group-title="→ CINE & SERIES ←",C/S• HBO 2 (HD) »4«
+http://premierchile.shop:8080/988966049tv/cmdgjw/134
+#EXTINF:-1 tvg-id="hbo-family.mx" tvg-name="C/S• HBO FAMILY (HD) »1«" tvg-logo="https://i.ibb.co/88mbrNn/HBOFAMILY.jpg" group-title="→ CINE & SERIES ←",C/S• HBO FAMILY (HD) »1«
+http://premierchile.shop:8080/988966049tv/cmdgjw/135
+#EXTINF:-1 tvg-id="hbo-family.mx" tvg-name="C/S• HBO FAMILY (HD) »2«" tvg-logo="https://i.ibb.co/88mbrNn/HBOFAMILY.jpg" group-title="→ CINE & SERIES ←",C/S• HBO FAMILY (HD) »2«
+http://premierchile.shop:8080/988966049tv/cmdgjw/136
+#EXTINF:-1 tvg-id="hbo-family.mx" tvg-name="C/S• HBO FAMILY (HD) »3«" tvg-logo="https://i.ibb.co/88mbrNn/HBOFAMILY.jpg" group-title="→ CINE & SERIES ←",C/S• HBO FAMILY (HD) »3«
+http://premierchile.shop:8080/988966049tv/cmdgjw/137
+#EXTINF:-1 tvg-id="hbo-family.mx" tvg-name="C/S• HBO FAMILY (HD) »4«" tvg-logo="https://i.ibb.co/88mbrNn/HBOFAMILY.jpg" group-title="→ CINE & SERIES ←",C/S• HBO FAMILY (HD) »4«
+http://premierchile.shop:8080/988966049tv/cmdgjw/138
+#EXTINF:-1 tvg-id="hbo-oeste.mx" tvg-name="C/S• HBO (HD) »2«" tvg-logo="https://i.ibb.co/h1QwfKd/HBO.jpg" group-title="→ CINE & SERIES ←",C/S• HBO (HD) »2«
+http://premierchile.shop:8080/988966049tv/cmdgjw/139
+#EXTINF:-1 tvg-id="hbo-oeste.mx" tvg-name="C/S• HBO (HD) »3«" tvg-logo="https://i.ibb.co/h1QwfKd/HBO.jpg" group-title="→ CINE & SERIES ←",C/S• HBO (HD) »3«
+http://premierchile.shop:8080/988966049tv/cmdgjw/140
+#EXTINF:-1 tvg-id="hbo-oeste.mx" tvg-name="C/S• HBO (HD) »4«" tvg-logo="https://i.ibb.co/h1QwfKd/HBO.jpg" group-title="→ CINE & SERIES ←",C/S• HBO (HD) »4«
+http://premierchile.shop:8080/988966049tv/cmdgjw/141
+#EXTINF:-1 tvg-id="540dtv.cl" tvg-name="C/S• HBO MUNDI (HD)" tvg-logo="https://i.ibb.co/Hg50ZZ4/HBOMUNDI.jpg" group-title="→ CINE & SERIES ←",C/S• HBO MUNDI (HD)
+http://premierchile.shop:8080/988966049tv/cmdgjw/142
+#EXTINF:-1 tvg-id="526dtv.cl" tvg-name="C/S• HBO PLUS (HD) »2«" tvg-logo="https://i.ibb.co/42KnfJN/HBOPLUS.jpg" group-title="→ CINE & SERIES ←",C/S• HBO PLUS (HD) »2«
+http://premierchile.shop:8080/988966049tv/cmdgjw/144
+#EXTINF:-1 tvg-id="I360.34725.schedulesdirect.org" tvg-name="C/S• HBO PLUS (HD) »3«" tvg-logo="https://i.ibb.co/42KnfJN/HBOPLUS.jpg" group-title="→ CINE & SERIES ←",C/S• HBO PLUS (HD) »3«
+http://premierchile.shop:8080/988966049tv/cmdgjw/145
+#EXTINF:-1 tvg-id="I360.34725.schedulesdirect.org" tvg-name="C/S• HBO PLUS (HD) »4«" tvg-logo="https://i.ibb.co/42KnfJN/HBOPLUS.jpg" group-title="→ CINE & SERIES ←",C/S• HBO PLUS (HD) »4«
+http://premierchile.shop:8080/988966049tv/cmdgjw/146
+#EXTINF:-1 tvg-id="I362.68301.schedulesdirect.org" tvg-name="C/S• HBO POP (HD) »1«" tvg-logo="https://i.ibb.co/VQLsWDt/HBOPOP.jpg" group-title="→ CINE & SERIES ←",C/S• HBO POP (HD) »1«
+http://premierchile.shop:8080/988966049tv/cmdgjw/147
+#EXTINF:-1 tvg-id="I362.68301.schedulesdirect.org" tvg-name="C/S• HBO POP (HD) »2«" tvg-logo="https://i.ibb.co/VQLsWDt/HBOPOP.jpg" group-title="→ CINE & SERIES ←",C/S• HBO POP (HD) »2«
+http://premierchile.shop:8080/988966049tv/cmdgjw/148
+#EXTINF:-1 tvg-id="I362.68301.schedulesdirect.org" tvg-name="C/S• HBO POP (HD) »3«" tvg-logo="https://i.ibb.co/VQLsWDt/HBOPOP.jpg" group-title="→ CINE & SERIES ←",C/S• HBO POP (HD) »3«
+http://premierchile.shop:8080/988966049tv/cmdgjw/149
+#EXTINF:-1 tvg-id="I365.80120.schedulesdirect.org" tvg-name="C/S• HBO SIGNATURE (HD) »1«" tvg-logo="https://i.ibb.co/pKfmCx8/HBOSIGNATURE.jpg" group-title="→ CINE & SERIES ←",C/S• HBO SIGNATURE (HD) »1«
+http://premierchile.shop:8080/988966049tv/cmdgjw/150
+#EXTINF:-1 tvg-id="I365.80120.schedulesdirect.org" tvg-name="C/S• HBO SIGNATURE (HD) »2«" tvg-logo="https://i.ibb.co/pKfmCx8/HBOSIGNATURE.jpg" group-title="→ CINE & SERIES ←",C/S• HBO SIGNATURE (HD) »2«
+http://premierchile.shop:8080/988966049tv/cmdgjw/151
+#EXTINF:-1 tvg-id="I365.80120.schedulesdirect.org" tvg-name="C/S• HBO SIGNATURE (HD) »3«" tvg-logo="https://i.ibb.co/pKfmCx8/HBOSIGNATURE.jpg" group-title="→ CINE & SERIES ←",C/S• HBO SIGNATURE (HD) »3«
+http://premierchile.shop:8080/988966049tv/cmdgjw/152
+#EXTINF:-1 tvg-id="I365.80120.schedulesdirect.org" tvg-name="C/S• HBO SIGNATURE (HD) »4«" tvg-logo="https://i.ibb.co/pKfmCx8/HBOSIGNATURE.jpg" group-title="→ CINE & SERIES ←",C/S• HBO SIGNATURE (HD) »4«
+http://premierchile.shop:8080/988966049tv/cmdgjw/153
+#EXTINF:-1 tvg-id="hbo-oeste.mx" tvg-name="C/S• HBO SUBTITULADO (HD) »1«" tvg-logo="https://i.ibb.co/h1QwfKd/HBO.jpg" group-title="→ CINE & SERIES ←",C/S• HBO SUBTITULADO (HD) »1«
+http://premierchile.shop:8080/988966049tv/cmdgjw/154
+#EXTINF:-1 tvg-id="hbo-oeste.mx" tvg-name="C/S• HBO SUBTITULADO (HD) »2«" tvg-logo="https://i.ibb.co/h1QwfKd/HBO.jpg" group-title="→ CINE & SERIES ←",C/S• HBO SUBTITULADO (HD) »2«
+http://premierchile.shop:8080/988966049tv/cmdgjw/155
+#EXTINF:-1 tvg-id="542dtv.cl" tvg-name="C/S• HBO XTREME (HD) »1«" tvg-logo="https://i.ibb.co/K2y2KxG/HBOXTREME.jpg" group-title="→ CINE & SERIES ←",C/S• HBO XTREME (HD) »1«
+http://premierchile.shop:8080/988966049tv/cmdgjw/156
+#EXTINF:-1 tvg-id="542dtv.cl" tvg-name="C/S• HBO XTREME (HD) »2«" tvg-logo="https://i.ibb.co/K2y2KxG/HBOXTREME.jpg" group-title="→ CINE & SERIES ←",C/S• HBO XTREME (HD) »2«
+http://premierchile.shop:8080/988966049tv/cmdgjw/157
+#EXTINF:-1 tvg-id="I366.34887.schedulesdirect.org" tvg-name="C/S• HBO XTREME (HD) »3«" tvg-logo="https://i.ibb.co/K2y2KxG/HBOXTREME.jpg" group-title="→ CINE & SERIES ←",C/S• HBO XTREME (HD) »3«
+http://premierchile.shop:8080/988966049tv/cmdgjw/158
+#EXTINF:-1 tvg-id="202dtv.co" tvg-name="C/S• STAR CHANNEL (HD) »1«" tvg-logo="https://i.ibb.co/WyL4txb/STARCHANEL.jpg" group-title="→ CINE & SERIES ←",C/S• STAR CHANNEL (HD) »1«
+http://premierchile.shop:8080/988966049tv/cmdgjw/160
+#EXTINF:-1 tvg-id="202dtv.co" tvg-name="C/S• STAR CHANNEL (HD) »2«" tvg-logo="https://i.ibb.co/WyL4txb/STARCHANEL.jpg" group-title="→ CINE & SERIES ←",C/S• STAR CHANNEL (HD) »2«
+http://premierchile.shop:8080/988966049tv/cmdgjw/161
+#EXTINF:-1 tvg-id="202dtv.co" tvg-name="C/S• STAR CHANNEL (HD) »3«" tvg-logo="https://i.ibb.co/WyL4txb/STARCHANEL.jpg" group-title="→ CINE & SERIES ←",C/S• STAR CHANNEL (HD) »3«
+http://premierchile.shop:8080/988966049tv/cmdgjw/162
+#EXTINF:-1 tvg-id="502dtv.cl" tvg-name="C/S• TNT (HD) »1«" tvg-logo="https://i.ibb.co/0q21c8Q/TNT.jpg" group-title="→ CINE & SERIES ←",C/S• TNT (HD) »1«
+http://premierchile.shop:8080/988966049tv/cmdgjw/166
+#EXTINF:-1 tvg-id="502dtv.cl" tvg-name="C/S• TNT (HD) »2«" tvg-logo="https://i.ibb.co/0q21c8Q/TNT.jpg" group-title="→ CINE & SERIES ←",C/S• TNT (HD) »2«
+http://premierchile.shop:8080/988966049tv/cmdgjw/167
+#EXTINF:-1 tvg-id="502dtv.cl" tvg-name="C/S• TNT (HD) »3«" tvg-logo="https://i.ibb.co/0q21c8Q/TNT.jpg" group-title="→ CINE & SERIES ←",C/S• TNT (HD) »3«
+http://premierchile.shop:8080/988966049tv/cmdgjw/168
+#EXTINF:-1 tvg-id="502dtv.cl" tvg-name="C/S• TNT (HD) »4«" tvg-logo="https://i.ibb.co/0q21c8Q/TNT.jpg" group-title="→ CINE & SERIES ←",C/S• TNT (HD) »4«
+http://premierchile.shop:8080/988966049tv/cmdgjw/169
+#EXTINF:-1 tvg-id="213dtv.cl" tvg-name="C/S• TNT SERIES (HD) »1«" tvg-logo="https://i.ibb.co/KqtK9ZQ/TNTSERIES.jpg" group-title="→ CINE & SERIES ←",C/S• TNT SERIES (HD) »1«
+http://premierchile.shop:8080/988966049tv/cmdgjw/170
+#EXTINF:-1 tvg-id="213dtv.cl" tvg-name="C/S• TNT SERIES (HD) »2«" tvg-logo="https://i.ibb.co/KqtK9ZQ/TNTSERIES.jpg" group-title="→ CINE & SERIES ←",C/S• TNT SERIES (HD) »2«
+http://premierchile.shop:8080/988966049tv/cmdgjw/171
+#EXTINF:-1 tvg-id="213dtv.cl" tvg-name="C/S• TNT SERIES (HD) »3«" tvg-logo="https://i.ibb.co/KqtK9ZQ/TNTSERIES.jpg" group-title="→ CINE & SERIES ←",C/S• TNT SERIES (HD) »3«
+http://premierchile.shop:8080/988966049tv/cmdgjw/172
+#EXTINF:-1 tvg-id="1509dtv.cl" tvg-name="C/S• CINEMAX (HD) »1«" tvg-logo="https://i.ibb.co/xjsQJ2P/CINEMAX.jpg" group-title="→ CINE & SERIES ←",C/S• CINEMAX (HD) »1«
+http://premierchile.shop:8080/988966049tv/cmdgjw/173
+#EXTINF:-1 tvg-id="" tvg-name="C/S• A3 CINE (HD) »1«" tvg-logo="https://i.ibb.co/ZLHz3t4/A3S.jpg" group-title="→ CINE & SERIES ←",C/S• A3 CINE (HD) »1«
+http://premierchile.shop:8080/988966049tv/cmdgjw/174
+#EXTINF:-1 tvg-id="214dtv.cl" tvg-name="C/S• A3 SERIES (HD) »1«" tvg-logo="https://i.ibb.co/ZLHz3t4/A3S.jpg" group-title="→ CINE & SERIES ←",C/S• A3 SERIES (HD) »1«
+http://premierchile.shop:8080/988966049tv/cmdgjw/175
+#EXTINF:-1 tvg-id="1509dtv.cl" tvg-name="C/S• CINEMAX (HD) »2«" tvg-logo="https://i.ibb.co/xjsQJ2P/CINEMAX.jpg" group-title="→ CINE & SERIES ←",C/S• CINEMAX (HD) »2«
+http://premierchile.shop:8080/988966049tv/cmdgjw/176
+#EXTINF:-1 tvg-id="1509dtv.cl" tvg-name="C/S• CINEMAX ACTION (HD) »1«" tvg-logo="https://i.ibb.co/5nd7bZP/CINEMAXACTION.jpg" group-title="→ CINE & SERIES ←",C/S• CINEMAX ACTION (HD) »1«
+http://premierchile.shop:8080/988966049tv/cmdgjw/177
+#EXTINF:-1 tvg-id="" tvg-name="C/S• CINEMAX EAST (HD)" tvg-logo="https://i.ibb.co/bz942XZ/CINEMAXHD.jpg" group-title="→ CINE & SERIES ←",C/S• CINEMAX EAST (HD)
+http://premierchile.shop:8080/988966049tv/cmdgjw/178
+#EXTINF:-1 tvg-id="1509dtv.cl" tvg-name="C/S• CINEMAX (HD) »3«" tvg-logo="https://i.ibb.co/bz942XZ/CINEMAXHD.jpg" group-title="→ CINE & SERIES ←",C/S• CINEMAX (HD) »3«
+http://premierchile.shop:8080/988966049tv/cmdgjw/179
+#EXTINF:-1 tvg-id="1509dtv.cl" tvg-name="C/S• CINEMAX (HD) »4«" tvg-logo="https://i.ibb.co/xjsQJ2P/CINEMAX.jpg" group-title="→ CINE & SERIES ←",C/S• CINEMAX (HD) »4«
+http://premierchile.shop:8080/988966049tv/cmdgjw/180
+#EXTINF:-1 tvg-id="de-pelicula-hd.mx" tvg-name="C/S• DE PELÍCULA (HD) »1«" tvg-logo="https://i.ibb.co/y07LGs1/DEPELICULA.jpg" group-title="→ CINE & SERIES ←",C/S• DE PELÍCULA (HD) »1«
+http://premierchile.shop:8080/988966049tv/cmdgjw/181
+#EXTINF:-1 tvg-id="" tvg-name="C/S• DE PELÍCULA CLASICO (HD) »1«" tvg-logo="https://i.ibb.co/Q8tsvCQ/DEPELICULACLASICO.jpg" group-title="→ CINE & SERIES ←",C/S• DE PELÍCULA CLASICO (HD) »1«
+http://premierchile.shop:8080/988966049tv/cmdgjw/182
+#EXTINF:-1 tvg-id="" tvg-name="C/S• DE PELÍCULA PLUS (HD)" tvg-logo="https://i.ibb.co/C1h4VXV/DEPELICULAPLUS.jpg" group-title="→ CINE & SERIES ←",C/S• DE PELÍCULA PLUS (HD)
+http://premierchile.shop:8080/988966049tv/cmdgjw/183
+#EXTINF:-1 tvg-id="" tvg-name="C/S• EURO CHANNEL (HD) »1«" tvg-logo="https://i.ibb.co/CBQWKfh/EUROPACHANNEL.jpg" group-title="→ CINE & SERIES ←",C/S• EURO CHANNEL (HD) »1«
+http://premierchile.shop:8080/988966049tv/cmdgjw/184
+#EXTINF:-1 tvg-id="" tvg-name="C/S• EURO CHANNEL (HD) »2«" tvg-logo="https://i.ibb.co/CBQWKfh/EUROPACHANNEL.jpg" group-title="→ CINE & SERIES ←",C/S• EURO CHANNEL (HD) »2«
+http://premierchile.shop:8080/988966049tv/cmdgjw/185
+#EXTINF:-1 tvg-id="" tvg-name="C/S• EURO CHANNEL (HD) »3«" tvg-logo="https://i.ibb.co/CBQWKfh/EUROPACHANNEL.jpg" group-title="→ CINE & SERIES ←",C/S• EURO CHANNEL (HD) »3«
+http://premierchile.shop:8080/988966049tv/cmdgjw/186
+#EXTINF:-1 tvg-id="" tvg-name="C/S• EUROPA EUROPA (HD) »1«" tvg-logo="https://i.ibb.co/cCN9PXW/EUROPAEUROPA.jpg" group-title="→ CINE & SERIES ←",C/S• EUROPA EUROPA (HD) »1«
+http://premierchile.shop:8080/988966049tv/cmdgjw/187
+#EXTINF:-1 tvg-id="" tvg-name="C/S• EUROPA EUROPA (HD) »2«" tvg-logo="https://i.ibb.co/cCN9PXW/EUROPAEUROPA.jpg" group-title="→ CINE & SERIES ←",C/S• EUROPA EUROPA (HD) »2«
+http://premierchile.shop:8080/988966049tv/cmdgjw/188
+#EXTINF:-1 tvg-id="" tvg-name="C/S• INDIE PLEX (HD)" tvg-logo="https://i.ibb.co/M9tCXd1/INDIEPLEX.jpg" group-title="→ CINE & SERIES ←",C/S• INDIE PLEX (HD)
+http://premierchile.shop:8080/988966049tv/cmdgjw/189
+#EXTINF:-1 tvg-id="" tvg-name="C/S• OUTERMAX (HD)" tvg-logo="https://i.ibb.co/FKTb7Lf/MOVIEMAX.jpg" group-title="→ CINE & SERIES ←",C/S• OUTERMAX (HD)
+http://premierchile.shop:8080/988966049tv/cmdgjw/190
+#EXTINF:-1 tvg-id="" tvg-name="C/S• PARAMOUNT CHANNEL (HD) »1«" tvg-logo="https://i.ibb.co/CwFwNXY/PARAMOUNT.jpg" group-title="→ CINE & SERIES ←",C/S• PARAMOUNT CHANNEL (HD) »1«
+http://premierchile.shop:8080/988966049tv/cmdgjw/191
+#EXTINF:-1 tvg-id="" tvg-name="C/S• PARAMOUNT CHANNEL (HD) »2«" tvg-logo="https://i.ibb.co/CwFwNXY/PARAMOUNT.jpg" group-title="→ CINE & SERIES ←",C/S• PARAMOUNT CHANNEL (HD) »2«
+http://premierchile.shop:8080/988966049tv/cmdgjw/192
+#EXTINF:-1 tvg-id="" tvg-name="C/S• PARAMOUNT CHANNEL (HD) »3«" tvg-logo="https://i.ibb.co/CwFwNXY/PARAMOUNT.jpg" group-title="→ CINE & SERIES ←",C/S• PARAMOUNT CHANNEL (HD) »3«
+http://premierchile.shop:8080/988966049tv/cmdgjw/193
+#EXTINF:-1 tvg-id="" tvg-name="C/S• PARAMOUNT NETWORK (HD) »1«" tvg-logo="https://i.ibb.co/CwFwNXY/PARAMOUNT.jpg" group-title="→ CINE & SERIES ←",C/S• PARAMOUNT NETWORK (HD) »1«
+http://premierchile.shop:8080/988966049tv/cmdgjw/194
+#EXTINF:-1 tvg-id="" tvg-name="C/S• PARAMOUNT NETWORK (HD) »2«" tvg-logo="https://i.ibb.co/CwFwNXY/PARAMOUNT.jpg" group-title="→ CINE & SERIES ←",C/S• PARAMOUNT NETWORK (HD) »2«
+http://premierchile.shop:8080/988966049tv/cmdgjw/195
+#EXTINF:-1 tvg-id="" tvg-name="C/S• SHOWTIME EAST (HD) »1«" tvg-logo="https://i.ibb.co/D8Kkz3d/SHOWTIMEEAST.jpg" group-title="→ CINE & SERIES ←",C/S• SHOWTIME EAST (HD) »1«
+http://premierchile.shop:8080/988966049tv/cmdgjw/196
+#EXTINF:-1 tvg-id="" tvg-name="C/S• SHOWTIME EAST (HD) »2«" tvg-logo="https://i.ibb.co/cT3Pf4w/SHOWTIME.jpg" group-title="→ CINE & SERIES ←",C/S• SHOWTIME EAST (HD) »2«
+http://premierchile.shop:8080/988966049tv/cmdgjw/197
+#EXTINF:-1 tvg-id="" tvg-name="CINE: SHOWTIME WESTᴴᴰ" tvg-logo="https://i.ibb.co/9nJLHQD/SHOWTIMEWEST.jpg" group-title="→ CINE & SERIES ←",CINE: SHOWTIME WESTᴴᴰ
+http://premierchile.shop:8080/988966049tv/cmdgjw/198
+#EXTINF:-1 tvg-id="" tvg-name="C/S• SONY (HD) »1«" tvg-logo="https://i.ibb.co/r7GXJms/SONYCHANNEL.jpg" group-title="→ CINE & SERIES ←",C/S• SONY (HD) »1«
+http://premierchile.shop:8080/988966049tv/cmdgjw/199
+#EXTINF:-1 tvg-id="" tvg-name="C/S• SONY (HD) »2«" tvg-logo="https://i.ibb.co/r7GXJms/SONYCHANNEL.jpg" group-title="→ CINE & SERIES ←",C/S• SONY (HD) »2«
+http://premierchile.shop:8080/988966049tv/cmdgjw/200
+#EXTINF:-1 tvg-id="" tvg-name="C/S• SONY (HD) »3«" tvg-logo="https://i.ibb.co/r7GXJms/SONYCHANNEL.jpg" group-title="→ CINE & SERIES ←",C/S• SONY (HD) »3«
+http://premierchile.shop:8080/988966049tv/cmdgjw/201
+#EXTINF:-1 tvg-id="" tvg-name="C/S• SPACE (HD) »1«" tvg-logo="https://i.ibb.co/VmrGxxp/SPACE.jpg" group-title="→ CINE & SERIES ←",C/S• SPACE (HD) »1«
+http://premierchile.shop:8080/988966049tv/cmdgjw/202
+#EXTINF:-1 tvg-id="" tvg-name="C/S• SPACE (HD) »2«" tvg-logo="https://i.ibb.co/VmrGxxp/SPACE.jpg" group-title="→ CINE & SERIES ←",C/S• SPACE (HD) »2«
+http://premierchile.shop:8080/988966049tv/cmdgjw/203
+#EXTINF:-1 tvg-id="" tvg-name="C/S• SPACE (HD) »3«" tvg-logo="https://i.ibb.co/VmrGxxp/SPACE.jpg" group-title="→ CINE & SERIES ←",C/S• SPACE (HD) »3«
+http://premierchile.shop:8080/988966049tv/cmdgjw/204
+#EXTINF:-1 tvg-id="" tvg-name="C/S• SPACE (HD) »4«" tvg-logo="https://i.ibb.co/VmrGxxp/SPACE.jpg" group-title="→ CINE & SERIES ←",C/S• SPACE (HD) »4«
+http://premierchile.shop:8080/988966049tv/cmdgjw/205
+#EXTINF:-1 tvg-id="" tvg-name="C/S• STARZ CINEMA (HD)" tvg-logo="https://static.epg.best/us/StarzCinema.us.png" group-title="→ CINE & SERIES ←",C/S• STARZ CINEMA (HD)
+http://premierchile.shop:8080/988966049tv/cmdgjw/206
+#EXTINF:-1 tvg-id="" tvg-name="C/S• STARZ COMEDY (HD)" tvg-logo="https://static.epg.best/us/StarzComedy.us.png" group-title="→ CINE & SERIES ←",C/S• STARZ COMEDY (HD)
+http://premierchile.shop:8080/988966049tv/cmdgjw/207
+#EXTINF:-1 tvg-id="" tvg-name="C/S• STARZ EAST (HD)" tvg-logo="https://static.epg.best/us/Starz.us.png" group-title="→ CINE & SERIES ←",C/S• STARZ EAST (HD)
+http://premierchile.shop:8080/988966049tv/cmdgjw/208
+#EXTINF:-1 tvg-id="" tvg-name="C/S• STARZ EDGE (HD)" tvg-logo="https://static.epg.best/us/StarzEdge.us.png" group-title="→ CINE & SERIES ←",C/S• STARZ EDGE (HD)
+http://premierchile.shop:8080/988966049tv/cmdgjw/209
+#EXTINF:-1 tvg-id="" tvg-name="C/S• STARZ ENCORE BLACK (HD)" tvg-logo="" group-title="→ CINE & SERIES ←",C/S• STARZ ENCORE BLACK (HD)
+http://premierchile.shop:8080/988966049tv/cmdgjw/210
+#EXTINF:-1 tvg-id="" tvg-name="C/S• STARZ ENCORE CLASSIC (HD)" tvg-logo="https://static.epg.best/us/StarzEncoreClassics.us.png" group-title="→ CINE & SERIES ←",C/S• STARZ ENCORE CLASSIC (HD)
+http://premierchile.shop:8080/988966049tv/cmdgjw/211
+#EXTINF:-1 tvg-id="" tvg-name="C/S• STARZ ENCORE FAMILY (HD)" tvg-logo="https://static.epg.best/us/StarzEncoreFamily.us.png" group-title="→ CINE & SERIES ←",C/S• STARZ ENCORE FAMILY (HD)
+http://premierchile.shop:8080/988966049tv/cmdgjw/212
+#EXTINF:-1 tvg-id="" tvg-name="C/S• STARZ ENCORE (HD)" tvg-logo="" group-title="→ CINE & SERIES ←",C/S• STARZ ENCORE (HD)
+http://premierchile.shop:8080/988966049tv/cmdgjw/213
+#EXTINF:-1 tvg-id="" tvg-name="C/S• STARZ ENCORE SUSPENSE (HD)" tvg-logo="https://static.epg.best/us/StarzEncoreSuspense.us.png" group-title="→ CINE & SERIES ←",C/S• STARZ ENCORE SUSPENSE (HD)
+http://premierchile.shop:8080/988966049tv/cmdgjw/214
+#EXTINF:-1 tvg-id="" tvg-name="C/S• STARZ ENCORE WESTERN (HD)" tvg-logo="https://static.epg.best/us/StarzEncoreWesterns.us.png" group-title="→ CINE & SERIES ←",C/S• STARZ ENCORE WESTERN (HD)
+http://premierchile.shop:8080/988966049tv/cmdgjw/215
+#EXTINF:-1 tvg-id="" tvg-name="C/S• STARZ (HD)" tvg-logo="" group-title="→ CINE & SERIES ←",C/S• STARZ (HD)
+http://premierchile.shop:8080/988966049tv/cmdgjw/216
+#EXTINF:-1 tvg-id="" tvg-name="C/S• STARZ WEST (HD)" tvg-logo="https://static.epg.best/us/StarzWest.us.png" group-title="→ CINE & SERIES ←",C/S• STARZ WEST (HD)
+http://premierchile.shop:8080/988966049tv/cmdgjw/217
+#EXTINF:-1 tvg-id="" tvg-name="C/S• STUDIO UNIVERSAL (HD) »1«" tvg-logo="https://i.ibb.co/s1QDFQ9/STUDIOUNIVERSAL.jpg" group-title="→ CINE & SERIES ←",C/S• STUDIO UNIVERSAL (HD) »1«
+http://premierchile.shop:8080/988966049tv/cmdgjw/218
+#EXTINF:-1 tvg-id="" tvg-name="C/S• STUDIO UNIVERSAL (HD) »2«" tvg-logo="https://i.ibb.co/s1QDFQ9/STUDIOUNIVERSAL.jpg" group-title="→ CINE & SERIES ←",C/S• STUDIO UNIVERSAL (HD) »2«
+http://premierchile.shop:8080/988966049tv/cmdgjw/219
+#EXTINF:-1 tvg-id="" tvg-name="C/S• STUDIO UNIVERSAL (HD) »3«" tvg-logo="https://i.ibb.co/s1QDFQ9/STUDIOUNIVERSAL.jpg" group-title="→ CINE & SERIES ←",C/S• STUDIO UNIVERSAL (HD) »3«
+http://premierchile.shop:8080/988966049tv/cmdgjw/220
+#EXTINF:-1 tvg-id="" tvg-name="C/S• STUDIO UNIVERSAL (HD) »4«" tvg-logo="https://i.ibb.co/s1QDFQ9/STUDIOUNIVERSAL.jpg" group-title="→ CINE & SERIES ←",C/S• STUDIO UNIVERSAL (HD) »4«
+http://premierchile.shop:8080/988966049tv/cmdgjw/221
+#EXTINF:-1 tvg-id="" tvg-name="C/S• SYFY (HD) »1«" tvg-logo="" group-title="→ CINE & SERIES ←",C/S• SYFY (HD) »1«
+http://premierchile.shop:8080/988966049tv/cmdgjw/222
+#EXTINF:-1 tvg-id="" tvg-name="C/S• SYFY (HD) »2«" tvg-logo="" group-title="→ CINE & SERIES ←",C/S• SYFY (HD) »2«
+http://premierchile.shop:8080/988966049tv/cmdgjw/223
+#EXTINF:-1 tvg-id="" tvg-name="C/S• SYFY (HD) »3«" tvg-logo="" group-title="→ CINE & SERIES ←",C/S• SYFY (HD) »3«
+http://premierchile.shop:8080/988966049tv/cmdgjw/224
+#EXTINF:-1 tvg-id="" tvg-name="C/S• SYFY (HD) »4«" tvg-logo="" group-title="→ CINE & SERIES ←",C/S• SYFY (HD) »4«
+http://premierchile.shop:8080/988966049tv/cmdgjw/225
+#EXTINF:-1 tvg-id="" tvg-name="C/S• TNT NOVELAS (HD) »1«" tvg-logo="https://i.ibb.co/kHp2Q54/Logo-TNT-Novelas.png" group-title="→ CINE & SERIES ←",C/S• TNT NOVELAS (HD) »1«
+http://premierchile.shop:8080/988966049tv/cmdgjw/226
+#EXTINF:-1 tvg-id="" tvg-name="C/S• TNT NOVELAS (HD) »2«" tvg-logo="https://i.ibb.co/kHp2Q54/Logo-TNT-Novelas.png" group-title="→ CINE & SERIES ←",C/S• TNT NOVELAS (HD) »2«
+http://premierchile.shop:8080/988966049tv/cmdgjw/227
+#EXTINF:-1 tvg-id="" tvg-name="C/S• TNT NOVELAS (HD) »3«" tvg-logo="https://i.ibb.co/kHp2Q54/Logo-TNT-Novelas.png" group-title="→ CINE & SERIES ←",C/S• TNT NOVELAS (HD) »3«
+http://premierchile.shop:8080/988966049tv/cmdgjw/228
+#EXTINF:-1 tvg-id="" tvg-name="C/S• TCM (HD) »1«" tvg-logo="https://i.ibb.co/71Ltk90/TCM.jpg" group-title="→ CINE & SERIES ←",C/S• TCM (HD) »1«
+http://premierchile.shop:8080/988966049tv/cmdgjw/229
+#EXTINF:-1 tvg-id="" tvg-name="C/S• TCM (HD) »2«" tvg-logo="https://i.ibb.co/71Ltk90/TCM.jpg" group-title="→ CINE & SERIES ←",C/S• TCM (HD) »2«
+http://premierchile.shop:8080/988966049tv/cmdgjw/230
+#EXTINF:-1 tvg-id="" tvg-name="C/S• TCM (HD) »3«" tvg-logo="https://i.ibb.co/71Ltk90/TCM.jpg" group-title="→ CINE & SERIES ←",C/S• TCM (HD) »3«
+http://premierchile.shop:8080/988966049tv/cmdgjw/231
+#EXTINF:-1 tvg-id="" tvg-name="C/S• UNIVERSAL CHANNEL (HD) »1«" tvg-logo="https://i.ibb.co/kqgm3p7/UNIVERSALCHANNEL.jpg" group-title="→ CINE & SERIES ←",C/S• UNIVERSAL CHANNEL (HD) »1«
+http://premierchile.shop:8080/988966049tv/cmdgjw/232
+#EXTINF:-1 tvg-id="" tvg-name="C/S• UNIVERSAL CHANNEL (HD) »2«" tvg-logo="https://i.ibb.co/kqgm3p7/UNIVERSALCHANNEL.jpg" group-title="→ CINE & SERIES ←",C/S• UNIVERSAL CHANNEL (HD) »2«
+http://premierchile.shop:8080/988966049tv/cmdgjw/233
+#EXTINF:-1 tvg-id="" tvg-name="C/S• UNIVERSAL CHANNEL (HD) »3«" tvg-logo="https://i.ibb.co/kqgm3p7/UNIVERSALCHANNEL.jpg" group-title="→ CINE & SERIES ←",C/S• UNIVERSAL CHANNEL (HD) »3«
+http://premierchile.shop:8080/988966049tv/cmdgjw/234
+#EXTINF:-1 tvg-id="" tvg-name="C/S• WARNER CHANNEL (HD) »1«" tvg-logo="https://i.ibb.co/vJrZD2P/WARNERTV.jpg" group-title="→ CINE & SERIES ←",C/S• WARNER CHANNEL (HD) »1«
+http://premierchile.shop:8080/988966049tv/cmdgjw/235
+#EXTINF:-1 tvg-id="" tvg-name="C/S• WARNER CHANNEL (HD) »2«" tvg-logo="https://i.ibb.co/vJrZD2P/WARNERTV.jpg" group-title="→ CINE & SERIES ←",C/S• WARNER CHANNEL (HD) »2«
+http://premierchile.shop:8080/988966049tv/cmdgjw/236
+#EXTINF:-1 tvg-id="" tvg-name="C/S• WARNER CHANNEL (HD) »3«" tvg-logo="https://i.ibb.co/vJrZD2P/WARNERTV.jpg" group-title="→ CINE & SERIES ←",C/S• WARNER CHANNEL (HD) »3«
+http://premierchile.shop:8080/988966049tv/cmdgjw/237
+#EXTINF:-1 tvg-id="" tvg-name="C/S• WARNER CHANNEL (HD) »4«" tvg-logo="https://i.ibb.co/vJrZD2P/WARNERTV.jpg" group-title="→ CINE & SERIES ←",C/S• WARNER CHANNEL (HD) »4«
+http://premierchile.shop:8080/988966049tv/cmdgjw/238
+#EXTINF:-1 tvg-id="" tvg-name="C/S• RETROPLEX (HD)" tvg-logo="https://i.ibb.co/Hnz73Y5/RETROPLEX.jpg" group-title="→ CINE & SERIES ←",C/S• RETROPLEX (HD)
+http://premierchile.shop:8080/988966049tv/cmdgjw/239
+#EXTINF:-1 tvg-id="" tvg-name="C/S• I-SAT (HD) »1«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/1200px-I.Sat_logo.svg.png" group-title="→ CINE & SERIES ←",C/S• I-SAT (HD) »1«
+http://premierchile.shop:8080/988966049tv/cmdgjw/240
+#EXTINF:-1 tvg-id="" tvg-name="C/S• I-SAT (HD) »2«" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/1200px-I.Sat_logo.svg.png" group-title="→ CINE & SERIES ←",C/S• I-SAT (HD) »2«
+http://premierchile.shop:8080/988966049tv/cmdgjw/241
+#EXTINF:-1 tvg-id="" tvg-name="C/S• COMEDY CENTRAL (HD) »1«" tvg-logo="https://i.ibb.co/41LYG9M/COMEDY-CENTRAL.jpg" group-title="→ CINE & SERIES ←",C/S• COMEDY CENTRAL (HD) »1«
+http://premierchile.shop:8080/988966049tv/cmdgjw/242
+#EXTINF:-1 tvg-id="" tvg-name="C/S• COMEDY CENTRAL (HD) »2«" tvg-logo="https://i.ibb.co/41LYG9M/COMEDY-CENTRAL.jpg" group-title="→ CINE & SERIES ←",C/S• COMEDY CENTRAL (HD) »2«
+http://premierchile.shop:8080/988966049tv/cmdgjw/243
+#EXTINF:-1 tvg-id="" tvg-name="C/S• FILM & ARTS (HD) »1«" tvg-logo="https://i.ibb.co/wwKZss5/FILM-ARTS.jpg" group-title="→ CINE & SERIES ←",C/S• FILM & ARTS (HD) »1«
+http://premierchile.shop:8080/988966049tv/cmdgjw/244
+#EXTINF:-1 tvg-id="" tvg-name="C/S• FILM & ARTS (HD) »2«" tvg-logo="https://i.ibb.co/wwKZss5/FILM-ARTS.jpg" group-title="→ CINE & SERIES ←",C/S• FILM & ARTS (HD) »2«
+http://premierchile.shop:8080/988966049tv/cmdgjw/245
+#EXTINF:-1 tvg-id="" tvg-name="C/S• FILM & ARTS (HD) »3«" tvg-logo="https://i.ibb.co/wwKZss5/FILM-ARTS.jpg" group-title="→ CINE & SERIES ←",C/S• FILM & ARTS (HD) »3«
+http://premierchile.shop:8080/988966049tv/cmdgjw/246
+#EXTINF:-1 tvg-id="" tvg-name="ECU-Liga Pro Ecuador 1 (e)(1080)" tvg-logo="https://i.postimg.cc/tCpwWZV2/Zappin-EC-e.png" group-title="ECUADOR",ECU-Liga Pro Ecuador 1 (e)(1080)
+http://tv.proyectox.vip:8080/deviacarlos1/wCSbrTqZgj/82060
+#EXTINF:-1 tvg-id="" tvg-name="ECU-Liga Pro Ecuador 2 (e)(720)" tvg-logo="https://i.postimg.cc/tCpwWZV2/Zappin-EC-e.png" group-title="ECUADOR",ECU-Liga Pro Ecuador 2 (e)(720)
+http://tv.proyectox.vip:8080/deviacarlos1/wCSbrTqZgj/84349
+#EXTINF:-1 tvg-id="" tvg-name="ECU-Liga Pro Ecuador 3 (e)(SD)" tvg-logo="https://i.postimg.cc/tCpwWZV2/Zappin-EC-e.png" group-title="ECUADOR",ECU-Liga Pro Ecuador 3 (e)(SD)
+http://tv.proyectox.vip:8080/deviacarlos1/wCSbrTqZgj/82068
+#EXTINF:-1 tvg-id="" tvg-name="ECU-Zapping Sports EC (e)(1080)" tvg-logo="https://i.postimg.cc/tCpwWZV2/Zappin-EC-e.png" group-title="ECUADOR",ECU-Zapping Sports EC (e)(1080)
+http://tv.proyectox.vip:8080/deviacarlos1/wCSbrTqZgj/84125
+#EXTINF:-1 tvg-id="" tvg-name="ECU-Copa Ecuador (e)(1080)" tvg-logo="https://i.postimg.cc/gk3gxSKb/Copa-Ecuador.png" group-title="ECUADOR",ECU-Copa Ecuador (e)(1080)
+http://tv.proyectox.vip:8080/deviacarlos1/wCSbrTqZgj/84793
+#EXTINF:-1 tvg-id="" tvg-name="ECU-Copa Ecuador (e)(720)" tvg-logo="https://i.postimg.cc/gk3gxSKb/Copa-Ecuador.png" group-title="ECUADOR",ECU-Copa Ecuador (e)(720)
+http://tv.proyectox.vip:8080/deviacarlos1/wCSbrTqZgj/84794
+#EXTINF:-1 tvg-id="" tvg-name="ECU-Canal Del Futbol (e)(1080)" tvg-logo="https://1.bp.blogspot.com/-xF1vpNkIs98/X7K_vuu_nVI/AAAAAAAAB3w/bETiZLyf2HEEBD9jz_rS-YvYKLDRO2QygCLcBGAsYHQ/w200-h200/Canal%2Bdel%2Bf%25C3%25BAtbol.png" group-title="ECUADOR",ECU-Canal Del Futbol (e)(1080)
+http://tv.proyectox.vip:8080/deviacarlos1/wCSbrTqZgj/8623
+#EXTINF:-1 tvg-id="" tvg-name="ECU-Canal Del Futbol (e)(720)" tvg-logo="https://1.bp.blogspot.com/-xF1vpNkIs98/X7K_vuu_nVI/AAAAAAAAB3w/bETiZLyf2HEEBD9jz_rS-YvYKLDRO2QygCLcBGAsYHQ/w200-h200/Canal%2Bdel%2Bf%25C3%25BAtbol.png" group-title="ECUADOR",ECU-Canal Del Futbol (e)(720)
+http://tv.proyectox.vip:8080/deviacarlos1/wCSbrTqZgj/8624
+#EXTINF:-1 tvg-id="" tvg-name="ECU-Canal Del Futbol 2 (e)(1080)" tvg-logo="https://i.postimg.cc/Bb74kBWT/Canal-del-futbol-2.png" group-title="ECUADOR",ECU-Canal Del Futbol 2 (e)(1080)
+http://tv.proyectox.vip:8080/deviacarlos1/wCSbrTqZgj/88436
+#EXTINF:-1 tvg-id="" tvg-name="ECU-Canal Del Futbol 2 (e)(720)" tvg-logo="https://i.postimg.cc/Bb74kBWT/Canal-del-futbol-2.png" group-title="ECUADOR",ECU-Canal Del Futbol 2 (e)(720)
+http://tv.proyectox.vip:8080/deviacarlos1/wCSbrTqZgj/88437
+#EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-name="ECU-Directv Sports (e)(1080)" tvg-logo="https://i.postimg.cc/1RGWB30z/Dsports.png" group-title="ECUADOR",ECU-Directv Sports (e)(1080)
+http://tv.proyectox.vip:8080/deviacarlos1/wCSbrTqZgj/88483
+#EXTINF:-1 tvg-id="DSPORTS.HD.(COL)(DTSCHD).co" tvg-name="ECU-Directv Sports (e)(720)" tvg-logo="https://1.bp.blogspot.com/-CE1czydcuuw/XazFPWYBLvI/AAAAAAAAAlY/R5o8SlM2tGo-vOu_SzNXEIZsiTY4zrPpACLcBGAsYHQ/s200/19.png" group-title="ECUADOR",ECU-Directv Sports (e)(720)
+http://tv.proyectox.vip:8080/deviacarlos1/wCSbrTqZgj/8625
